@@ -254,14 +254,14 @@ def build_html(data: dict, summary_html: str) -> str:
 <head>
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title>Biomedical EngineeringResearch Weekly Summary</title>
+  <title>Ontario Veterinary College Research Weekly Summary</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <div class="page">
     <header class="header">
       <div class="header__brand">
-        <h1>Biomedical Engineering Research Weekly Summary</h1>
+        <h1>Ontario Veterinary College Research Weekly Summary</h1>
         <p class="meta">Generated: {html.escape(now)} | Window: {html.escape(start)} → {html.escape(end)} | Works: {n_works}</p>
       </div>
       <img class="header__logo" src="logo.png" alt="Logo">
@@ -287,7 +287,7 @@ def build_html(data: dict, summary_html: str) -> str:
     </section>
 
     <footer class="footer">
-      Built by Resonate Research • Data from OA
+      Built by Resonance Research • Data from OA
     </footer>
   </div>
 </body>
