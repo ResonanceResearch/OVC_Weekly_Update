@@ -1,0 +1,4490 @@
+{
+  "generated_at": "2025-10-06T03:49:36.420605+00:00",
+  "window": {
+    "start": "2025-09-29",
+    "end": "2025-10-06"
+  },
+  "cohort_size": 186,
+  "works_count": 15,
+  "works": [
+    {
+      "openalex_id": "https://openalex.org/W4414776112",
+      "title": "Insights from 17 years of culture and PCR detection of animal mollicutes in a Canadian provincial laboratory",
+      "publication_date": "2025-10-03",
+      "publication_year": 2025,
+      "journal": "Journal of Veterinary Diagnostic Investigation",
+      "type": "article",
+      "doi": "https://doi.org/10.1177/10406387251377526",
+      "doi_url": "https://doi.org/10.1177/10406387251377526",
+      "authorships": [
+        {
+          "id": "https://openalex.org/A5018015581",
+          "openalex_id": "A5018015581",
+          "display_name": "Lisa Ledger",
+          "orcid": null,
+          "author_position": "first"
+        },
+        {
+          "id": "https://openalex.org/A5119827617",
+          "openalex_id": "A5119827617",
+          "display_name": "Fernando Munevar",
+          "orcid": null,
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5092788147",
+          "openalex_id": "A5092788147",
+          "display_name": "Pauline Nelson-Smikle",
+          "orcid": null,
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5052268938",
+          "openalex_id": "A5052268938",
+          "display_name": "Calvin Kellendonk",
+          "orcid": null,
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5089109649",
+          "openalex_id": "A5089109649",
+          "display_name": "Qiumei You",
+          "orcid": "https://orcid.org/0000-0001-8557-7017",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5111538372",
+          "openalex_id": "A5111538372",
+          "display_name": "Lois Parker",
+          "orcid": null,
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5037039025",
+          "openalex_id": "A5037039025",
+          "display_name": "Patricia McRaild",
+          "orcid": null,
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5029452443",
+          "openalex_id": "A5029452443",
+          "display_name": "Rebeccah McDowall",
+          "orcid": null,
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5021182979",
+          "openalex_id": "A5021182979",
+          "display_name": "Jason Eidt",
+          "orcid": null,
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5113376974",
+          "openalex_id": "A5113376974",
+          "display_name": "Nathan Benoit",
+          "orcid": null,
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5119827616",
+          "openalex_id": "A5119827616",
+          "display_name": "Pat Bell-Rogers",
+          "orcid": null,
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5043498352",
+          "openalex_id": "A5043498352",
+          "display_name": "Grant Maxie",
+          "orcid": "https://orcid.org/0000-0002-2064-7608",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5046698236",
+          "openalex_id": "A5046698236",
+          "display_name": "Hugh Y. Cai",
+          "orcid": "https://orcid.org/0000-0002-1868-483X",
+          "author_position": "last",
+          "email": "hcai@uoguelph.ca"
+        }
+      ],
+      "cohort_matches": [
+        {
+          "id": "https://openalex.org/A5046698236",
+          "openalex_id": "A5046698236",
+          "display_name": "Hugh Y. Cai",
+          "orcid": "https://orcid.org/0000-0002-1868-483X",
+          "author_position": "last",
+          "email": "hcai@uoguelph.ca"
+        }
+      ],
+      "abstract_inverted_index": {
+        "Since": [
+          0
+        ],
+        "~1980,": [
+          1
+        ],
+        "the": [
+          2,
+          19,
+          39,
+          61,
+          87,
+          91,
+          116,
+          123,
+          141
+        ],
+        "Animal": [
+          3
+        ],
+        "Health": [
+          4
+        ],
+        "Laboratory": [
+          5
+        ],
+        "(AHL)": [
+          6
+        ],
+        "in": [
+          7,
+          31,
+          47,
+          51,
+          103,
+          158
+        ],
+        "Ontario,": [
+          8
+        ],
+        "Canada,": [
+          9
+        ],
+        "has": [
+          10,
+          77,
+          127
+        ],
+        "isolated": [
+          11
+        ],
+        "animal": [
+          12,
+          138
+        ],
+        "mollicute": [
+          13
+        ],
+        "species": [
+          14
+        ],
+        "by": [
+          15,
+          43
+        ],
+        "culture.": [
+          16
+        ],
+        "Data": [
+          17
+        ],
+        "for": [
+          18,
+          70,
+          82,
+          90,
+          131,
+          150
+        ],
+        "most": [
+          20
+        ],
+        "recent": [
+          21
+        ],
+        "17": [
+          22
+        ],
+        "y": [
+          23,
+          112
+        ],
+        "(2007–2024)": [
+          24
+        ],
+        "captures": [
+          25
+        ],
+        "over": [
+          26,
+          122
+        ],
+        "90,000": [
+          27
+        ],
+        "test": [
+          28
+        ],
+        "results.": [
+          29
+        ],
+        "Advancements": [
+          30
+        ],
+        "PCR,": [
+          32
+        ],
+        "qPCR,": [
+          33
+        ],
+        "and": [
+          34,
+          93,
+          98,
+          118,
+          134,
+          154
+        ],
+        "DNA": [
+          35
+        ],
+        "sequencing": [
+          36
+        ],
+        "have": [
+          37
+        ],
+        "shifted": [
+          38
+        ],
+        "percentage": [
+          40
+        ],
+        "of": [
+          41,
+          55,
+          63,
+          95,
+          113,
+          137,
+          143,
+          147
+        ],
+        "testing": [
+          42,
+          65
+        ],
+        "PCR": [
+          44
+        ],
+        "from": [
+          45
+        ],
+        "18.7%": [
+          46
+        ],
+        "2007": [
+          48
+        ],
+        "to": [
+          49,
+          60
+        ],
+        "91.1%": [
+          50
+        ],
+        "2024.": [
+          52
+        ],
+        "The": [
+          53
+        ],
+        "bulk": [
+          54
+        ],
+        "this": [
+          56,
+          75
+        ],
+        "shift": [
+          57,
+          76
+        ],
+        "is": [
+          58
+        ],
+        "due": [
+          59
+        ],
+        "uptake": [
+          62
+        ],
+        "molecular": [
+          64,
+          119
+        ],
+        "as": [
+          66
+        ],
+        "a": [
+          67,
+          100
+        ],
+        "screening": [
+          68
+        ],
+        "tool": [
+          69
+        ],
+        "clinically": [
+          71
+        ],
+        "normal": [
+          72
+        ],
+        "animals,": [
+          73
+        ],
+        "but": [
+          74
+        ],
+        "not": [
+          78
+        ],
+        "been": [
+          79
+        ],
+        "universal,": [
+          80
+        ],
+        "particularly": [
+          81
+        ],
+        "ureaplasma": [
+          83
+        ],
+        "testing.": [
+          84
+        ],
+        "Culture": [
+          85
+        ],
+        "remains": [
+          86
+        ],
+        "gold": [
+          88
+        ],
+        "standard": [
+          89
+        ],
+        "detection": [
+          92
+        ],
+        "identification": [
+          94
+        ],
+        "rare": [
+          96
+        ],
+        "pathogens": [
+          97
+        ],
+        "plays": [
+          99
+        ],
+        "key": [
+          101
+        ],
+        "role": [
+          102
+        ],
+        "research": [
+          104
+        ],
+        "through": [
+          105
+        ],
+        "our": [
+          106
+        ],
+        "mycoplasma": [
+          107
+        ],
+        "cryobank,": [
+          108
+        ],
+        "which": [
+          109
+        ],
+        "includes": [
+          110
+        ],
+        "40+": [
+          111
+        ],
+        "isolates.": [
+          114
+        ],
+        "Synergizing": [
+          115
+        ],
+        "microbiologic": [
+          117
+        ],
+        "techniques": [
+          120
+        ],
+        "developed": [
+          121
+        ],
+        "AHL’s": [
+          124
+        ],
+        "multi-decade": [
+          125
+        ],
+        "history": [
+          126
+        ],
+        "presented": [
+          128
+        ],
+        "novel": [
+          129
+        ],
+        "opportunities": [
+          130
+        ],
+        "detection,": [
+          132
+        ],
+        "characterization,": [
+          133
+        ],
+        "local": [
+          135
+        ],
+        "eradication": [
+          136
+        ],
+        "mollicutes,": [
+          139
+        ],
+        "including": [
+          140
+        ],
+        "development": [
+          142
+        ],
+        "new": [
+          144
+        ],
+        "assays,": [
+          145
+        ],
+        "tracking": [
+          146
+        ],
+        "historical": [
+          148
+        ],
+        "trends": [
+          149
+        ],
+        "antimicrobial": [
+          151
+        ],
+        "resistance": [
+          152
+        ],
+        "(AMR),": [
+          153
+        ],
+        "identifying": [
+          155
+        ],
+        "AMR-associated": [
+          156
+        ],
+        "mutations": [
+          157
+        ],
+        "Mycoplasmopsis": [
+          159
+        ],
+        "(": [
+          160
+        ],
+        "Mycoplasma": [
+          161
+        ],
+        ")": [
+          162
+        ],
+        "bovis": [
+          163
+        ],
+        ".": [
+          164
+        ]
+      },
+      "abstract_text": "Since ~1980, the Animal Health Laboratory (AHL) in Ontario, Canada, has isolated animal mollicute species by culture. Data for the most recent 17 y (2007–2024) captures over 90,000 test results. Advancements in PCR, qPCR, and DNA sequencing have shifted the percentage of testing by PCR from 18.7% in 2007 to 91.1% in 2024. The bulk of this shift is due to the uptake of molecular testing as a screening tool for clinically normal animals, but this shift has not been universal, particularly for ureaplasma testing. Culture remains the gold standard for the detection and identification of rare pathogens and plays a key role in research through our mycoplasma cryobank, which includes 40+ y of isolates. Synergizing the microbiologic and molecular techniques developed over the AHL’s multi-decade history has presented novel opportunities for detection, characterization, and local eradication of animal mollicutes, including the development of new assays, tracking of historical trends for antimicrobial resistance (AMR), and identifying AMR-associated mutations in Mycoplasmopsis ( Mycoplasma ) bovis .",
+      "abstract_snippet_250w": "Since ~1980, the Animal Health Laboratory (AHL) in Ontario, Canada, has isolated animal mollicute species by culture. Data for the most recent 17 y (2007–2024) captures over 90,000 test results. Advancements in PCR, qPCR, and DNA sequencing have shifted the percentage of testing by PCR from 18.7% in 2007 to 91.1% in 2024. The bulk of this shift is due to the uptake of molecular testing as a screening tool for clinically normal animals, but this shift has not been universal, particularly for ureaplasma testing. Culture remains the gold standard for the detection and identification of rare pathogens and plays a key role in research through our mycoplasma cryobank, which includes 40+ y of isolates. Synergizing the microbiologic and molecular techniques developed over the AHL’s multi-decade history has presented novel opportunities for detection, characterization, and local eradication of animal mollicutes, including the development of new assays, tracking of historical trends for antimicrobial resistance (AMR), and identifying AMR-associated mutations in Mycoplasmopsis ( Mycoplasma ) bovis .",
+      "is_oa": true
+    },
+    {
+      "openalex_id": "https://openalex.org/W4414798362",
+      "title": "How to use agenda-setting: a communication tool to enhance appointment efficiency",
+      "publication_date": "2025-10-03",
+      "publication_year": 2025,
+      "journal": "Journal of the American Veterinary Medical Association",
+      "type": "article",
+      "doi": "https://doi.org/10.2460/javma.25.06.0377",
+      "doi_url": "https://doi.org/10.2460/javma.25.06.0377",
+      "authorships": [
+        {
+          "id": "https://openalex.org/A5081534364",
+          "openalex_id": "A5081534364",
+          "display_name": "Katja A. Sutherland",
+          "orcid": null,
+          "author_position": "first",
+          "email": "katja@uoguelph.ca"
+        },
+        {
+          "id": "https://openalex.org/A5029688318",
+          "openalex_id": "A5029688318",
+          "display_name": "Natasha Janke",
+          "orcid": "https://orcid.org/0000-0002-2999-8287",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5112196477",
+          "openalex_id": "A5112196477",
+          "display_name": "Jane R. Shaw",
+          "orcid": null,
+          "author_position": "last"
+        }
+      ],
+      "cohort_matches": [
+        {
+          "id": "https://openalex.org/A5081534364",
+          "openalex_id": "A5081534364",
+          "display_name": "Katja A. Sutherland",
+          "orcid": null,
+          "author_position": "first",
+          "email": "katja@uoguelph.ca"
+        }
+      ],
+      "abstract_inverted_index": {
+        "Abstract": [
+          0
+        ],
+        "Objective": [
+          1
+        ],
+        "To": [
+          2
+        ],
+        "describe": [
+          3
+        ],
+        "and": [
+          4,
+          38,
+          62,
+          64,
+          74,
+          100,
+          104,
+          168
+        ],
+        "demonstrate": [
+          5
+        ],
+        "agenda-setting": [
+          6,
+          18
+        ],
+        "in": [
+          7,
+          20,
+          49
+        ],
+        "clinical": [
+          8,
+          120
+        ],
+        "practice.": [
+          9
+        ],
+        "Animals": [
+          10
+        ],
+        "Appointments": [
+          11
+        ],
+        "with": [
+          12,
+          44
+        ],
+        "any": [
+          13
+        ],
+        "patient(s)": [
+          14
+        ],
+        "can": [
+          15,
+          147
+        ],
+        "benefit": [
+          16
+        ],
+        "from": [
+          17
+        ],
+        "early": [
+          19
+        ],
+        "the": [
+          21,
+          36,
+          46,
+          56,
+          60,
+          76,
+          80,
+          84,
+          98,
+          106,
+          125,
+          151,
+          159
+        ],
+        "interaction.": [
+          22
+        ],
+        "Methods": [
+          23
+        ],
+        "Establishing": [
+          24
+        ],
+        "a": [
+          25,
+          29,
+          92,
+          110,
+          119,
+          128,
+          143
+        ],
+        "mutual": [
+          26,
+          93
+        ],
+        "agenda": [
+          27,
+          48,
+          89,
+          94,
+          108
+        ],
+        "is": [
+          28,
+          118,
+          142
+        ],
+        "9-step": [
+          30
+        ],
+        "process": [
+          31,
+          122
+        ],
+        "that": [
+          32,
+          95,
+          123,
+          146
+        ],
+        "takes": [
+          33
+        ],
+        "into": [
+          34
+        ],
+        "consideration": [
+          35
+        ],
+        "client": [
+          37,
+          99,
+          163,
+          166,
+          170
+        ],
+        "veterinary": [
+          39,
+          85,
+          101,
+          152
+        ],
+        "professional": [
+          40,
+          86,
+          102
+        ],
+        "agendas.": [
+          41
+        ],
+        "Agenda-setting": [
+          42,
+          117,
+          141
+        ],
+        "begins": [
+          43
+        ],
+        "eliciting": [
+          45,
+          52
+        ],
+        "client’s": [
+          47,
+          77
+        ],
+        "6": [
+          50
+        ],
+        "steps:": [
+          51
+        ],
+        "their": [
+          53,
+          88
+        ],
+        "reasons": [
+          54
+        ],
+        "for": [
+          55,
+          59,
+          71,
+          113,
+          131
+        ],
+        "visit,": [
+          57
+        ],
+        "concerns": [
+          58
+        ],
+        "pet,": [
+          61
+        ],
+        "goals": [
+          63
+        ],
+        "expectations;": [
+          65
+        ],
+        "summarizing": [
+          66
+        ],
+        "back": [
+          67
+        ],
+        "to": [
+          68,
+          135,
+          154
+        ],
+        "them;": [
+          69
+        ],
+        "checking": [
+          70
+        ],
+        "more": [
+          72
+        ],
+        "items;": [
+          73
+        ],
+        "identifying": [
+          75
+        ],
+        "priority.": [
+          78
+        ],
+        "In": [
+          79
+        ],
+        "last": [
+          81
+        ],
+        "3": [
+          82
+        ],
+        "steps,": [
+          83
+        ],
+        "shares": [
+          87
+        ],
+        "items,": [
+          90
+        ],
+        "negotiates": [
+          91
+        ],
+        "includes": [
+          96
+        ],
+        "both": [
+          97
+        ],
+        "agendas,": [
+          103
+        ],
+        "summarizes": [
+          105
+        ],
+        "shared": [
+          107,
+          129
+        ],
+        "before": [
+          109
+        ],
+        "final": [
+          111
+        ],
+        "check": [
+          112
+        ],
+        "additional": [
+          114
+        ],
+        "items.": [
+          115
+        ],
+        "Results": [
+          116
+        ],
+        "communication": [
+          121
+        ],
+        "supports": [
+          124
+        ],
+        "development": [
+          126
+        ],
+        "of": [
+          127,
+          161
+        ],
+        "roadmap": [
+          130
+        ],
+        "an": [
+          132
+        ],
+        "appointment,": [
+          133
+        ],
+        "leading": [
+          134
+        ],
+        "enhanced": [
+          136
+        ],
+        "appointment": [
+          137,
+          156
+        ],
+        "efficiency.": [
+          138
+        ],
+        "Clinical": [
+          139
+        ],
+        "Relevance": [
+          140
+        ],
+        "practical": [
+          144
+        ],
+        "tool": [
+          145
+        ],
+        "be": [
+          148
+        ],
+        "employed": [
+          149
+        ],
+        "by": [
+          150
+        ],
+        "team": [
+          153
+        ],
+        "enhance": [
+          155,
+          169
+        ],
+        "efficiency,": [
+          157
+        ],
+        "reduce": [
+          158
+        ],
+        "occurrence": [
+          160
+        ],
+        "late-rising": [
+          162
+        ],
+        "concerns,": [
+          164
+        ],
+        "meet": [
+          165
+        ],
+        "expectations,": [
+          167
+        ],
+        "satisfaction.": [
+          171
+        ]
+      },
+      "abstract_text": "Abstract Objective To describe and demonstrate agenda-setting in clinical practice. Animals Appointments with any patient(s) can benefit from agenda-setting early in the interaction. Methods Establishing a mutual agenda is a 9-step process that takes into consideration the client and veterinary professional agendas. Agenda-setting begins with eliciting the client’s agenda in 6 steps: eliciting their reasons for the visit, concerns for the pet, and goals and expectations; summarizing back to them; checking for more items; and identifying the client’s priority. In the last 3 steps, the veterinary professional shares their agenda items, negotiates a mutual agenda that includes both the client and veterinary professional agendas, and summarizes the shared agenda before a final check for additional items. Results Agenda-setting is a clinical communication process that supports the development of a shared roadmap for an appointment, leading to enhanced appointment efficiency. Clinical Relevance Agenda-setting is a practical tool that can be employed by the veterinary team to enhance appointment efficiency, reduce the occurrence of late-rising client concerns, meet client expectations, and enhance client satisfaction.",
+      "abstract_snippet_250w": "Abstract Objective To describe and demonstrate agenda-setting in clinical practice. Animals Appointments with any patient(s) can benefit from agenda-setting early in the interaction. Methods Establishing a mutual agenda is a 9-step process that takes into consideration the client and veterinary professional agendas. Agenda-setting begins with eliciting the client’s agenda in 6 steps: eliciting their reasons for the visit, concerns for the pet, and goals and expectations; summarizing back to them; checking for more items; and identifying the client’s priority. In the last 3 steps, the veterinary professional shares their agenda items, negotiates a mutual agenda that includes both the client and veterinary professional agendas, and summarizes the shared agenda before a final check for additional items. Results Agenda-setting is a clinical communication process that supports the development of a shared roadmap for an appointment, leading to enhanced appointment efficiency. Clinical Relevance Agenda-setting is a practical tool that can be employed by the veterinary team to enhance appointment efficiency, reduce the occurrence of late-rising client concerns, meet client expectations, and enhance client satisfaction.",
+      "is_oa": false
+    },
+    {
+      "openalex_id": "https://openalex.org/W4414796197",
+      "title": "Hormonal and behavioral variation during release from reproductive suppression in an extreme cooperative breeder",
+      "publication_date": "2025-10-03",
+      "publication_year": 2025,
+      "journal": "Mammalian Biology",
+      "type": "article",
+      "doi": "https://doi.org/10.1007/s42991-025-00528-5",
+      "doi_url": "https://doi.org/10.1007/s42991-025-00528-5",
+      "authorships": [
+        {
+          "id": "https://openalex.org/A5059719057",
+          "openalex_id": "A5059719057",
+          "display_name": "Phoebe D. Edwards",
+          "orcid": "https://orcid.org/0000-0003-3658-5146",
+          "author_position": "first"
+        },
+        {
+          "id": "https://openalex.org/A5119835758",
+          "openalex_id": "A5119835758",
+          "display_name": "Juweriah Munir",
+          "orcid": null,
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5084214285",
+          "openalex_id": "A5084214285",
+          "display_name": "Ilapreet Toor",
+          "orcid": "https://orcid.org/0000-0003-0602-7549",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5112753936",
+          "openalex_id": "A5112753936",
+          "display_name": "Bruce D. Goldman",
+          "orcid": null,
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5030436966",
+          "openalex_id": "A5030436966",
+          "display_name": "Rudy Boonstra",
+          "orcid": "https://orcid.org/0000-0003-1959-1077",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5046036187",
+          "openalex_id": "A5046036187",
+          "display_name": "Rupert Palme",
+          "orcid": "https://orcid.org/0000-0001-9466-3662",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5072878961",
+          "openalex_id": "A5072878961",
+          "display_name": "Gabriela F. Mastromonaco",
+          "orcid": "https://orcid.org/0000-0001-6229-0355",
+          "author_position": "middle",
+          "email": "gmastrom@uoguelph.ca"
+        },
+        {
+          "id": "https://openalex.org/A5068044369",
+          "openalex_id": "A5068044369",
+          "display_name": "Melissa M. Holmes",
+          "orcid": "https://orcid.org/0000-0003-1979-1503",
+          "author_position": "last"
+        }
+      ],
+      "cohort_matches": [
+        {
+          "id": "https://openalex.org/A5072878961",
+          "openalex_id": "A5072878961",
+          "display_name": "Gabriela F. Mastromonaco",
+          "orcid": "https://orcid.org/0000-0001-6229-0355",
+          "author_position": "middle",
+          "email": "gmastrom@uoguelph.ca"
+        }
+      ],
+      "abstract_inverted_index": null,
+      "abstract_text": "",
+      "abstract_snippet_250w": "",
+      "is_oa": false
+    },
+    {
+      "openalex_id": "https://openalex.org/W4414709654",
+      "title": "Supplementary Tables from Specific Genetic Mutations Impact Chemotherapy Resistance and Therapeutic Efficacy of Oncolytic Viruses in Ovarian Cancer",
+      "publication_date": "2025-10-01",
+      "publication_year": 2025,
+      "journal": "",
+      "type": "supplementary-materials",
+      "doi": "https://doi.org/10.1158/1535-7163.30255125",
+      "doi_url": "https://doi.org/10.1158/1535-7163.30255125",
+      "authorships": [
+        {
+          "id": "https://openalex.org/A5050956085",
+          "openalex_id": "A5050956085",
+          "display_name": "Alison O. Cudmore",
+          "orcid": null,
+          "author_position": "first"
+        },
+        {
+          "id": "https://openalex.org/A5078780893",
+          "openalex_id": "A5078780893",
+          "display_name": "Galaxia M. Rodriguez",
+          "orcid": "https://orcid.org/0000-0002-5366-6047",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5032398526",
+          "openalex_id": "A5032398526",
+          "display_name": "Vincent Maranda",
+          "orcid": "https://orcid.org/0000-0003-1674-5421",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5093361426",
+          "openalex_id": "A5093361426",
+          "display_name": "Salar Farokhi Boroujeni",
+          "orcid": null,
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5084464229",
+          "openalex_id": "A5084464229",
+          "display_name": "Humaira Murshed",
+          "orcid": null,
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5101615019",
+          "openalex_id": "A5101615019",
+          "display_name": "Elizabeth A. Macdonald",
+          "orcid": "https://orcid.org/0000-0002-3154-9632",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5035210192",
+          "openalex_id": "A5035210192",
+          "display_name": "Mélanie Grondin",
+          "orcid": "https://orcid.org/0009-0004-1655-7740",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5052729328",
+          "openalex_id": "A5052729328",
+          "display_name": "Kenneth Garson",
+          "orcid": "https://orcid.org/0000-0002-6360-6515",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5029977294",
+          "openalex_id": "A5029977294",
+          "display_name": "Kathy Matuszewska",
+          "orcid": "https://orcid.org/0000-0002-7269-8538",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5012677572",
+          "openalex_id": "A5012677572",
+          "display_name": "Jean‐Simon Diallo",
+          "orcid": "https://orcid.org/0000-0002-4862-2795",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5071283689",
+          "openalex_id": "A5071283689",
+          "display_name": "Jim Petrik",
+          "orcid": "https://orcid.org/0000-0001-7102-637X",
+          "author_position": "middle",
+          "email": "jpetrik@uoguelph.ca"
+        },
+        {
+          "id": "https://openalex.org/A5039075996",
+          "openalex_id": "A5039075996",
+          "display_name": "Barbara C. Vanderhyden",
+          "orcid": "https://orcid.org/0000-0002-7644-7189",
+          "author_position": "last"
+        }
+      ],
+      "cohort_matches": [
+        {
+          "id": "https://openalex.org/A5071283689",
+          "openalex_id": "A5071283689",
+          "display_name": "Jim Petrik",
+          "orcid": "https://orcid.org/0000-0001-7102-637X",
+          "author_position": "middle",
+          "email": "jpetrik@uoguelph.ca"
+        }
+      ],
+      "abstract_inverted_index": {
+        "&lt;p&gt;Supplementary": [
+          0
+        ],
+        "Tables&lt;/p&gt;": [
+          1
+        ]
+      },
+      "abstract_text": "&lt;p&gt;Supplementary Tables&lt;/p&gt;",
+      "abstract_snippet_250w": "&lt;p&gt;Supplementary Tables&lt;/p&gt;",
+      "is_oa": false
+    },
+    {
+      "openalex_id": "https://openalex.org/W4414747016",
+      "title": "Supplementary Figure 8 from Specific Genetic Mutations Impact Chemotherapy Resistance and Therapeutic Efficacy of Oncolytic Viruses in Ovarian Cancer",
+      "publication_date": "2025-10-01",
+      "publication_year": 2025,
+      "journal": "",
+      "type": "preprint",
+      "doi": "https://doi.org/10.1158/1535-7163.30255128",
+      "doi_url": "https://doi.org/10.1158/1535-7163.30255128",
+      "authorships": [
+        {
+          "id": "https://openalex.org/A5050956085",
+          "openalex_id": "A5050956085",
+          "display_name": "Alison O. Cudmore",
+          "orcid": null,
+          "author_position": "first"
+        },
+        {
+          "id": "https://openalex.org/A5078780893",
+          "openalex_id": "A5078780893",
+          "display_name": "Galaxia M. Rodriguez",
+          "orcid": "https://orcid.org/0000-0002-5366-6047",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5032398526",
+          "openalex_id": "A5032398526",
+          "display_name": "Vincent Maranda",
+          "orcid": "https://orcid.org/0000-0003-1674-5421",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5093361426",
+          "openalex_id": "A5093361426",
+          "display_name": "Salar Farokhi Boroujeni",
+          "orcid": null,
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5084464229",
+          "openalex_id": "A5084464229",
+          "display_name": "Humaira Murshed",
+          "orcid": null,
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5101615019",
+          "openalex_id": "A5101615019",
+          "display_name": "Elizabeth A. Macdonald",
+          "orcid": "https://orcid.org/0000-0002-3154-9632",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5035210192",
+          "openalex_id": "A5035210192",
+          "display_name": "Mélanie Grondin",
+          "orcid": "https://orcid.org/0009-0004-1655-7740",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5052729328",
+          "openalex_id": "A5052729328",
+          "display_name": "Kenneth Garson",
+          "orcid": "https://orcid.org/0000-0002-6360-6515",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5029977294",
+          "openalex_id": "A5029977294",
+          "display_name": "Kathy Matuszewska",
+          "orcid": "https://orcid.org/0000-0002-7269-8538",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5012677572",
+          "openalex_id": "A5012677572",
+          "display_name": "Jean‐Simon Diallo",
+          "orcid": "https://orcid.org/0000-0002-4862-2795",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5071283689",
+          "openalex_id": "A5071283689",
+          "display_name": "Jim Petrik",
+          "orcid": "https://orcid.org/0000-0001-7102-637X",
+          "author_position": "middle",
+          "email": "jpetrik@uoguelph.ca"
+        },
+        {
+          "id": "https://openalex.org/A5039075996",
+          "openalex_id": "A5039075996",
+          "display_name": "Barbara C. Vanderhyden",
+          "orcid": "https://orcid.org/0000-0002-7644-7189",
+          "author_position": "last"
+        }
+      ],
+      "cohort_matches": [
+        {
+          "id": "https://openalex.org/A5071283689",
+          "openalex_id": "A5071283689",
+          "display_name": "Jim Petrik",
+          "orcid": "https://orcid.org/0000-0001-7102-637X",
+          "author_position": "middle",
+          "email": "jpetrik@uoguelph.ca"
+        }
+      ],
+      "abstract_inverted_index": {
+        "&lt;p&gt;Supplementary": [
+          0
+        ],
+        "Figure": [
+          1
+        ],
+        "8&lt;/p&gt;": [
+          2
+        ]
+      },
+      "abstract_text": "&lt;p&gt;Supplementary Figure 8&lt;/p&gt;",
+      "abstract_snippet_250w": "&lt;p&gt;Supplementary Figure 8&lt;/p&gt;",
+      "is_oa": false
+    },
+    {
+      "openalex_id": "https://openalex.org/W4414709643",
+      "title": "Supplementary Figure 7 from Specific Genetic Mutations Impact Chemotherapy Resistance and Therapeutic Efficacy of Oncolytic Viruses in Ovarian Cancer",
+      "publication_date": "2025-10-01",
+      "publication_year": 2025,
+      "journal": "",
+      "type": "preprint",
+      "doi": "https://doi.org/10.1158/1535-7163.30255131",
+      "doi_url": "https://doi.org/10.1158/1535-7163.30255131",
+      "authorships": [
+        {
+          "id": "https://openalex.org/A5050956085",
+          "openalex_id": "A5050956085",
+          "display_name": "Alison O. Cudmore",
+          "orcid": null,
+          "author_position": "first"
+        },
+        {
+          "id": "https://openalex.org/A5078780893",
+          "openalex_id": "A5078780893",
+          "display_name": "Galaxia M. Rodriguez",
+          "orcid": "https://orcid.org/0000-0002-5366-6047",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5032398526",
+          "openalex_id": "A5032398526",
+          "display_name": "Vincent Maranda",
+          "orcid": "https://orcid.org/0000-0003-1674-5421",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5093361426",
+          "openalex_id": "A5093361426",
+          "display_name": "Salar Farokhi Boroujeni",
+          "orcid": null,
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5084464229",
+          "openalex_id": "A5084464229",
+          "display_name": "Humaira Murshed",
+          "orcid": null,
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5101615019",
+          "openalex_id": "A5101615019",
+          "display_name": "Elizabeth A. Macdonald",
+          "orcid": "https://orcid.org/0000-0002-3154-9632",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5035210192",
+          "openalex_id": "A5035210192",
+          "display_name": "Mélanie Grondin",
+          "orcid": "https://orcid.org/0009-0004-1655-7740",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5052729328",
+          "openalex_id": "A5052729328",
+          "display_name": "Kenneth Garson",
+          "orcid": "https://orcid.org/0000-0002-6360-6515",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5029977294",
+          "openalex_id": "A5029977294",
+          "display_name": "Kathy Matuszewska",
+          "orcid": "https://orcid.org/0000-0002-7269-8538",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5012677572",
+          "openalex_id": "A5012677572",
+          "display_name": "Jean‐Simon Diallo",
+          "orcid": "https://orcid.org/0000-0002-4862-2795",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5071283689",
+          "openalex_id": "A5071283689",
+          "display_name": "Jim Petrik",
+          "orcid": "https://orcid.org/0000-0001-7102-637X",
+          "author_position": "middle",
+          "email": "jpetrik@uoguelph.ca"
+        },
+        {
+          "id": "https://openalex.org/A5039075996",
+          "openalex_id": "A5039075996",
+          "display_name": "Barbara C. Vanderhyden",
+          "orcid": "https://orcid.org/0000-0002-7644-7189",
+          "author_position": "last"
+        }
+      ],
+      "cohort_matches": [
+        {
+          "id": "https://openalex.org/A5071283689",
+          "openalex_id": "A5071283689",
+          "display_name": "Jim Petrik",
+          "orcid": "https://orcid.org/0000-0001-7102-637X",
+          "author_position": "middle",
+          "email": "jpetrik@uoguelph.ca"
+        }
+      ],
+      "abstract_inverted_index": {
+        "&lt;p&gt;Supplementary": [
+          0
+        ],
+        "Figure": [
+          1
+        ],
+        "7&lt;/p&gt;": [
+          2
+        ]
+      },
+      "abstract_text": "&lt;p&gt;Supplementary Figure 7&lt;/p&gt;",
+      "abstract_snippet_250w": "&lt;p&gt;Supplementary Figure 7&lt;/p&gt;",
+      "is_oa": false
+    },
+    {
+      "openalex_id": "https://openalex.org/W4414747796",
+      "title": "Supplementary Figure 6 from Specific Genetic Mutations Impact Chemotherapy Resistance and Therapeutic Efficacy of Oncolytic Viruses in Ovarian Cancer",
+      "publication_date": "2025-10-01",
+      "publication_year": 2025,
+      "journal": "",
+      "type": "preprint",
+      "doi": "https://doi.org/10.1158/1535-7163.30255134",
+      "doi_url": "https://doi.org/10.1158/1535-7163.30255134",
+      "authorships": [
+        {
+          "id": "https://openalex.org/A5050956085",
+          "openalex_id": "A5050956085",
+          "display_name": "Alison O. Cudmore",
+          "orcid": null,
+          "author_position": "first"
+        },
+        {
+          "id": "https://openalex.org/A5078780893",
+          "openalex_id": "A5078780893",
+          "display_name": "Galaxia M. Rodriguez",
+          "orcid": "https://orcid.org/0000-0002-5366-6047",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5032398526",
+          "openalex_id": "A5032398526",
+          "display_name": "Vincent Maranda",
+          "orcid": "https://orcid.org/0000-0003-1674-5421",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5093361426",
+          "openalex_id": "A5093361426",
+          "display_name": "Salar Farokhi Boroujeni",
+          "orcid": null,
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5084464229",
+          "openalex_id": "A5084464229",
+          "display_name": "Humaira Murshed",
+          "orcid": null,
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5101615019",
+          "openalex_id": "A5101615019",
+          "display_name": "Elizabeth A. Macdonald",
+          "orcid": "https://orcid.org/0000-0002-3154-9632",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5035210192",
+          "openalex_id": "A5035210192",
+          "display_name": "Mélanie Grondin",
+          "orcid": "https://orcid.org/0009-0004-1655-7740",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5052729328",
+          "openalex_id": "A5052729328",
+          "display_name": "Kenneth Garson",
+          "orcid": "https://orcid.org/0000-0002-6360-6515",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5029977294",
+          "openalex_id": "A5029977294",
+          "display_name": "Kathy Matuszewska",
+          "orcid": "https://orcid.org/0000-0002-7269-8538",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5012677572",
+          "openalex_id": "A5012677572",
+          "display_name": "Jean‐Simon Diallo",
+          "orcid": "https://orcid.org/0000-0002-4862-2795",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5071283689",
+          "openalex_id": "A5071283689",
+          "display_name": "Jim Petrik",
+          "orcid": "https://orcid.org/0000-0001-7102-637X",
+          "author_position": "middle",
+          "email": "jpetrik@uoguelph.ca"
+        },
+        {
+          "id": "https://openalex.org/A5039075996",
+          "openalex_id": "A5039075996",
+          "display_name": "Barbara C. Vanderhyden",
+          "orcid": "https://orcid.org/0000-0002-7644-7189",
+          "author_position": "last"
+        }
+      ],
+      "cohort_matches": [
+        {
+          "id": "https://openalex.org/A5071283689",
+          "openalex_id": "A5071283689",
+          "display_name": "Jim Petrik",
+          "orcid": "https://orcid.org/0000-0001-7102-637X",
+          "author_position": "middle",
+          "email": "jpetrik@uoguelph.ca"
+        }
+      ],
+      "abstract_inverted_index": {
+        "&lt;p&gt;Supplementary": [
+          0
+        ],
+        "Figure": [
+          1
+        ],
+        "6&lt;/p&gt;": [
+          2
+        ]
+      },
+      "abstract_text": "&lt;p&gt;Supplementary Figure 6&lt;/p&gt;",
+      "abstract_snippet_250w": "&lt;p&gt;Supplementary Figure 6&lt;/p&gt;",
+      "is_oa": false
+    },
+    {
+      "openalex_id": "https://openalex.org/W4414709517",
+      "title": "Supplementary Figure 5 from Specific Genetic Mutations Impact Chemotherapy Resistance and Therapeutic Efficacy of Oncolytic Viruses in Ovarian Cancer",
+      "publication_date": "2025-10-01",
+      "publication_year": 2025,
+      "journal": "",
+      "type": "preprint",
+      "doi": "https://doi.org/10.1158/1535-7163.30255137",
+      "doi_url": "https://doi.org/10.1158/1535-7163.30255137",
+      "authorships": [
+        {
+          "id": "https://openalex.org/A5050956085",
+          "openalex_id": "A5050956085",
+          "display_name": "Alison O. Cudmore",
+          "orcid": null,
+          "author_position": "first"
+        },
+        {
+          "id": "https://openalex.org/A5078780893",
+          "openalex_id": "A5078780893",
+          "display_name": "Galaxia M. Rodriguez",
+          "orcid": "https://orcid.org/0000-0002-5366-6047",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5032398526",
+          "openalex_id": "A5032398526",
+          "display_name": "Vincent Maranda",
+          "orcid": "https://orcid.org/0000-0003-1674-5421",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5093361426",
+          "openalex_id": "A5093361426",
+          "display_name": "Salar Farokhi Boroujeni",
+          "orcid": null,
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5084464229",
+          "openalex_id": "A5084464229",
+          "display_name": "Humaira Murshed",
+          "orcid": null,
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5101615019",
+          "openalex_id": "A5101615019",
+          "display_name": "Elizabeth A. Macdonald",
+          "orcid": "https://orcid.org/0000-0002-3154-9632",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5035210192",
+          "openalex_id": "A5035210192",
+          "display_name": "Mélanie Grondin",
+          "orcid": "https://orcid.org/0009-0004-1655-7740",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5052729328",
+          "openalex_id": "A5052729328",
+          "display_name": "Kenneth Garson",
+          "orcid": "https://orcid.org/0000-0002-6360-6515",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5029977294",
+          "openalex_id": "A5029977294",
+          "display_name": "Kathy Matuszewska",
+          "orcid": "https://orcid.org/0000-0002-7269-8538",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5012677572",
+          "openalex_id": "A5012677572",
+          "display_name": "Jean‐Simon Diallo",
+          "orcid": "https://orcid.org/0000-0002-4862-2795",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5071283689",
+          "openalex_id": "A5071283689",
+          "display_name": "Jim Petrik",
+          "orcid": "https://orcid.org/0000-0001-7102-637X",
+          "author_position": "middle",
+          "email": "jpetrik@uoguelph.ca"
+        },
+        {
+          "id": "https://openalex.org/A5039075996",
+          "openalex_id": "A5039075996",
+          "display_name": "Barbara C. Vanderhyden",
+          "orcid": "https://orcid.org/0000-0002-7644-7189",
+          "author_position": "last"
+        }
+      ],
+      "cohort_matches": [
+        {
+          "id": "https://openalex.org/A5071283689",
+          "openalex_id": "A5071283689",
+          "display_name": "Jim Petrik",
+          "orcid": "https://orcid.org/0000-0001-7102-637X",
+          "author_position": "middle",
+          "email": "jpetrik@uoguelph.ca"
+        }
+      ],
+      "abstract_inverted_index": {
+        "&lt;p&gt;Supplementary": [
+          0
+        ],
+        "Figure": [
+          1
+        ],
+        "5&lt;/p&gt;": [
+          2
+        ]
+      },
+      "abstract_text": "&lt;p&gt;Supplementary Figure 5&lt;/p&gt;",
+      "abstract_snippet_250w": "&lt;p&gt;Supplementary Figure 5&lt;/p&gt;",
+      "is_oa": true
+    },
+    {
+      "openalex_id": "https://openalex.org/W4414709641",
+      "title": "Supplementary Figure 4 from Specific Genetic Mutations Impact Chemotherapy Resistance and Therapeutic Efficacy of Oncolytic Viruses in Ovarian Cancer",
+      "publication_date": "2025-10-01",
+      "publication_year": 2025,
+      "journal": "",
+      "type": "preprint",
+      "doi": "https://doi.org/10.1158/1535-7163.30255140",
+      "doi_url": "https://doi.org/10.1158/1535-7163.30255140",
+      "authorships": [
+        {
+          "id": "https://openalex.org/A5050956085",
+          "openalex_id": "A5050956085",
+          "display_name": "Alison O. Cudmore",
+          "orcid": null,
+          "author_position": "first"
+        },
+        {
+          "id": "https://openalex.org/A5078780893",
+          "openalex_id": "A5078780893",
+          "display_name": "Galaxia M. Rodriguez",
+          "orcid": "https://orcid.org/0000-0002-5366-6047",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5032398526",
+          "openalex_id": "A5032398526",
+          "display_name": "Vincent Maranda",
+          "orcid": "https://orcid.org/0000-0003-1674-5421",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5093361426",
+          "openalex_id": "A5093361426",
+          "display_name": "Salar Farokhi Boroujeni",
+          "orcid": null,
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5084464229",
+          "openalex_id": "A5084464229",
+          "display_name": "Humaira Murshed",
+          "orcid": null,
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5101615019",
+          "openalex_id": "A5101615019",
+          "display_name": "Elizabeth A. Macdonald",
+          "orcid": "https://orcid.org/0000-0002-3154-9632",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5035210192",
+          "openalex_id": "A5035210192",
+          "display_name": "Mélanie Grondin",
+          "orcid": "https://orcid.org/0009-0004-1655-7740",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5052729328",
+          "openalex_id": "A5052729328",
+          "display_name": "Kenneth Garson",
+          "orcid": "https://orcid.org/0000-0002-6360-6515",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5029977294",
+          "openalex_id": "A5029977294",
+          "display_name": "Kathy Matuszewska",
+          "orcid": "https://orcid.org/0000-0002-7269-8538",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5012677572",
+          "openalex_id": "A5012677572",
+          "display_name": "Jean‐Simon Diallo",
+          "orcid": "https://orcid.org/0000-0002-4862-2795",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5071283689",
+          "openalex_id": "A5071283689",
+          "display_name": "Jim Petrik",
+          "orcid": "https://orcid.org/0000-0001-7102-637X",
+          "author_position": "middle",
+          "email": "jpetrik@uoguelph.ca"
+        },
+        {
+          "id": "https://openalex.org/A5039075996",
+          "openalex_id": "A5039075996",
+          "display_name": "Barbara C. Vanderhyden",
+          "orcid": "https://orcid.org/0000-0002-7644-7189",
+          "author_position": "last"
+        }
+      ],
+      "cohort_matches": [
+        {
+          "id": "https://openalex.org/A5071283689",
+          "openalex_id": "A5071283689",
+          "display_name": "Jim Petrik",
+          "orcid": "https://orcid.org/0000-0001-7102-637X",
+          "author_position": "middle",
+          "email": "jpetrik@uoguelph.ca"
+        }
+      ],
+      "abstract_inverted_index": {
+        "&lt;p&gt;Supplementary": [
+          0
+        ],
+        "Figure": [
+          1
+        ],
+        "4&lt;/p&gt;": [
+          2
+        ]
+      },
+      "abstract_text": "&lt;p&gt;Supplementary Figure 4&lt;/p&gt;",
+      "abstract_snippet_250w": "&lt;p&gt;Supplementary Figure 4&lt;/p&gt;",
+      "is_oa": false
+    },
+    {
+      "openalex_id": "https://openalex.org/W4414709639",
+      "title": "Supplementary Figure 3 from Specific Genetic Mutations Impact Chemotherapy Resistance and Therapeutic Efficacy of Oncolytic Viruses in Ovarian Cancer",
+      "publication_date": "2025-10-01",
+      "publication_year": 2025,
+      "journal": "",
+      "type": "preprint",
+      "doi": "https://doi.org/10.1158/1535-7163.30255143",
+      "doi_url": "https://doi.org/10.1158/1535-7163.30255143",
+      "authorships": [
+        {
+          "id": "https://openalex.org/A5050956085",
+          "openalex_id": "A5050956085",
+          "display_name": "Alison O. Cudmore",
+          "orcid": null,
+          "author_position": "first"
+        },
+        {
+          "id": "https://openalex.org/A5078780893",
+          "openalex_id": "A5078780893",
+          "display_name": "Galaxia M. Rodriguez",
+          "orcid": "https://orcid.org/0000-0002-5366-6047",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5032398526",
+          "openalex_id": "A5032398526",
+          "display_name": "Vincent Maranda",
+          "orcid": "https://orcid.org/0000-0003-1674-5421",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5093361426",
+          "openalex_id": "A5093361426",
+          "display_name": "Salar Farokhi Boroujeni",
+          "orcid": null,
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5084464229",
+          "openalex_id": "A5084464229",
+          "display_name": "Humaira Murshed",
+          "orcid": null,
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5101615019",
+          "openalex_id": "A5101615019",
+          "display_name": "Elizabeth A. Macdonald",
+          "orcid": "https://orcid.org/0000-0002-3154-9632",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5035210192",
+          "openalex_id": "A5035210192",
+          "display_name": "Mélanie Grondin",
+          "orcid": "https://orcid.org/0009-0004-1655-7740",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5052729328",
+          "openalex_id": "A5052729328",
+          "display_name": "Kenneth Garson",
+          "orcid": "https://orcid.org/0000-0002-6360-6515",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5029977294",
+          "openalex_id": "A5029977294",
+          "display_name": "Kathy Matuszewska",
+          "orcid": "https://orcid.org/0000-0002-7269-8538",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5012677572",
+          "openalex_id": "A5012677572",
+          "display_name": "Jean‐Simon Diallo",
+          "orcid": "https://orcid.org/0000-0002-4862-2795",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5071283689",
+          "openalex_id": "A5071283689",
+          "display_name": "Jim Petrik",
+          "orcid": "https://orcid.org/0000-0001-7102-637X",
+          "author_position": "middle",
+          "email": "jpetrik@uoguelph.ca"
+        },
+        {
+          "id": "https://openalex.org/A5039075996",
+          "openalex_id": "A5039075996",
+          "display_name": "Barbara C. Vanderhyden",
+          "orcid": "https://orcid.org/0000-0002-7644-7189",
+          "author_position": "last"
+        }
+      ],
+      "cohort_matches": [
+        {
+          "id": "https://openalex.org/A5071283689",
+          "openalex_id": "A5071283689",
+          "display_name": "Jim Petrik",
+          "orcid": "https://orcid.org/0000-0001-7102-637X",
+          "author_position": "middle",
+          "email": "jpetrik@uoguelph.ca"
+        }
+      ],
+      "abstract_inverted_index": {
+        "&lt;p&gt;Supplementary": [
+          0
+        ],
+        "Figure": [
+          1
+        ],
+        "3&lt;/p&gt;": [
+          2
+        ]
+      },
+      "abstract_text": "&lt;p&gt;Supplementary Figure 3&lt;/p&gt;",
+      "abstract_snippet_250w": "&lt;p&gt;Supplementary Figure 3&lt;/p&gt;",
+      "is_oa": false
+    },
+    {
+      "openalex_id": "https://openalex.org/W4414709640",
+      "title": "Supplementary Figure 2 from Specific Genetic Mutations Impact Chemotherapy Resistance and Therapeutic Efficacy of Oncolytic Viruses in Ovarian Cancer",
+      "publication_date": "2025-10-01",
+      "publication_year": 2025,
+      "journal": "",
+      "type": "preprint",
+      "doi": "https://doi.org/10.1158/1535-7163.30255146",
+      "doi_url": "https://doi.org/10.1158/1535-7163.30255146",
+      "authorships": [
+        {
+          "id": "https://openalex.org/A5050956085",
+          "openalex_id": "A5050956085",
+          "display_name": "Alison O. Cudmore",
+          "orcid": null,
+          "author_position": "first"
+        },
+        {
+          "id": "https://openalex.org/A5078780893",
+          "openalex_id": "A5078780893",
+          "display_name": "Galaxia M. Rodriguez",
+          "orcid": "https://orcid.org/0000-0002-5366-6047",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5032398526",
+          "openalex_id": "A5032398526",
+          "display_name": "Vincent Maranda",
+          "orcid": "https://orcid.org/0000-0003-1674-5421",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5093361426",
+          "openalex_id": "A5093361426",
+          "display_name": "Salar Farokhi Boroujeni",
+          "orcid": null,
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5084464229",
+          "openalex_id": "A5084464229",
+          "display_name": "Humaira Murshed",
+          "orcid": null,
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5101615019",
+          "openalex_id": "A5101615019",
+          "display_name": "Elizabeth A. Macdonald",
+          "orcid": "https://orcid.org/0000-0002-3154-9632",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5035210192",
+          "openalex_id": "A5035210192",
+          "display_name": "Mélanie Grondin",
+          "orcid": "https://orcid.org/0009-0004-1655-7740",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5052729328",
+          "openalex_id": "A5052729328",
+          "display_name": "Kenneth Garson",
+          "orcid": "https://orcid.org/0000-0002-6360-6515",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5029977294",
+          "openalex_id": "A5029977294",
+          "display_name": "Kathy Matuszewska",
+          "orcid": "https://orcid.org/0000-0002-7269-8538",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5012677572",
+          "openalex_id": "A5012677572",
+          "display_name": "Jean‐Simon Diallo",
+          "orcid": "https://orcid.org/0000-0002-4862-2795",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5071283689",
+          "openalex_id": "A5071283689",
+          "display_name": "Jim Petrik",
+          "orcid": "https://orcid.org/0000-0001-7102-637X",
+          "author_position": "middle",
+          "email": "jpetrik@uoguelph.ca"
+        },
+        {
+          "id": "https://openalex.org/A5039075996",
+          "openalex_id": "A5039075996",
+          "display_name": "Barbara C. Vanderhyden",
+          "orcid": "https://orcid.org/0000-0002-7644-7189",
+          "author_position": "last"
+        }
+      ],
+      "cohort_matches": [
+        {
+          "id": "https://openalex.org/A5071283689",
+          "openalex_id": "A5071283689",
+          "display_name": "Jim Petrik",
+          "orcid": "https://orcid.org/0000-0001-7102-637X",
+          "author_position": "middle",
+          "email": "jpetrik@uoguelph.ca"
+        }
+      ],
+      "abstract_inverted_index": {
+        "&lt;p&gt;Supplementary": [
+          0
+        ],
+        "Figure": [
+          1
+        ],
+        "2&lt;/p&gt;": [
+          2
+        ]
+      },
+      "abstract_text": "&lt;p&gt;Supplementary Figure 2&lt;/p&gt;",
+      "abstract_snippet_250w": "&lt;p&gt;Supplementary Figure 2&lt;/p&gt;",
+      "is_oa": false
+    },
+    {
+      "openalex_id": "https://openalex.org/W4414709518",
+      "title": "Supplementary Figure 1 from Specific Genetic Mutations Impact Chemotherapy Resistance and Therapeutic Efficacy of Oncolytic Viruses in Ovarian Cancer",
+      "publication_date": "2025-10-01",
+      "publication_year": 2025,
+      "journal": "",
+      "type": "preprint",
+      "doi": "https://doi.org/10.1158/1535-7163.30255149",
+      "doi_url": "https://doi.org/10.1158/1535-7163.30255149",
+      "authorships": [
+        {
+          "id": "https://openalex.org/A5050956085",
+          "openalex_id": "A5050956085",
+          "display_name": "Alison O. Cudmore",
+          "orcid": null,
+          "author_position": "first"
+        },
+        {
+          "id": "https://openalex.org/A5078780893",
+          "openalex_id": "A5078780893",
+          "display_name": "Galaxia M. Rodriguez",
+          "orcid": "https://orcid.org/0000-0002-5366-6047",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5032398526",
+          "openalex_id": "A5032398526",
+          "display_name": "Vincent Maranda",
+          "orcid": "https://orcid.org/0000-0003-1674-5421",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5093361426",
+          "openalex_id": "A5093361426",
+          "display_name": "Salar Farokhi Boroujeni",
+          "orcid": null,
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5084464229",
+          "openalex_id": "A5084464229",
+          "display_name": "Humaira Murshed",
+          "orcid": null,
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5101615019",
+          "openalex_id": "A5101615019",
+          "display_name": "Elizabeth A. Macdonald",
+          "orcid": "https://orcid.org/0000-0002-3154-9632",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5035210192",
+          "openalex_id": "A5035210192",
+          "display_name": "Mélanie Grondin",
+          "orcid": "https://orcid.org/0009-0004-1655-7740",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5052729328",
+          "openalex_id": "A5052729328",
+          "display_name": "Kenneth Garson",
+          "orcid": "https://orcid.org/0000-0002-6360-6515",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5029977294",
+          "openalex_id": "A5029977294",
+          "display_name": "Kathy Matuszewska",
+          "orcid": "https://orcid.org/0000-0002-7269-8538",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5012677572",
+          "openalex_id": "A5012677572",
+          "display_name": "Jean‐Simon Diallo",
+          "orcid": "https://orcid.org/0000-0002-4862-2795",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5071283689",
+          "openalex_id": "A5071283689",
+          "display_name": "Jim Petrik",
+          "orcid": "https://orcid.org/0000-0001-7102-637X",
+          "author_position": "middle",
+          "email": "jpetrik@uoguelph.ca"
+        },
+        {
+          "id": "https://openalex.org/A5039075996",
+          "openalex_id": "A5039075996",
+          "display_name": "Barbara C. Vanderhyden",
+          "orcid": "https://orcid.org/0000-0002-7644-7189",
+          "author_position": "last"
+        }
+      ],
+      "cohort_matches": [
+        {
+          "id": "https://openalex.org/A5071283689",
+          "openalex_id": "A5071283689",
+          "display_name": "Jim Petrik",
+          "orcid": "https://orcid.org/0000-0001-7102-637X",
+          "author_position": "middle",
+          "email": "jpetrik@uoguelph.ca"
+        }
+      ],
+      "abstract_inverted_index": {
+        "&lt;p&gt;Supplementary": [
+          0
+        ],
+        "Figure": [
+          1
+        ],
+        "1&lt;/p&gt;": [
+          2
+        ]
+      },
+      "abstract_text": "&lt;p&gt;Supplementary Figure 1&lt;/p&gt;",
+      "abstract_snippet_250w": "&lt;p&gt;Supplementary Figure 1&lt;/p&gt;",
+      "is_oa": true
+    },
+    {
+      "openalex_id": "https://openalex.org/W4414780500",
+      "title": "Psychological impacts and self-management by responders to emergency and disaster events involving animals: findings from a cross-sectional international survey",
+      "publication_date": "2025-10-01",
+      "publication_year": 2025,
+      "journal": "New Zealand Veterinary Journal",
+      "type": "article",
+      "doi": "https://doi.org/10.1080/00480169.2025.2561615",
+      "doi_url": "https://doi.org/10.1080/00480169.2025.2561615",
+      "authorships": [
+        {
+          "id": "https://openalex.org/A5071309591",
+          "openalex_id": "A5071309591",
+          "display_name": "Susan Grey",
+          "orcid": "https://orcid.org/0000-0002-8134-2066",
+          "author_position": "first"
+        },
+        {
+          "id": "https://openalex.org/A5028996985",
+          "openalex_id": "A5028996985",
+          "display_name": "Christopher B. Riley",
+          "orcid": "https://orcid.org/0000-0001-8679-7986",
+          "author_position": "middle",
+          "email": "criley03@uoguelph.ca"
+        },
+        {
+          "id": "https://openalex.org/A5059620903",
+          "openalex_id": "A5059620903",
+          "display_name": "Kirrilly Thompson",
+          "orcid": "https://orcid.org/0000-0002-2758-6537",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5119829476",
+          "openalex_id": "A5119829476",
+          "display_name": "HE Squance",
+          "orcid": "https://orcid.org/0000-0001-6671-9729",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5009627381",
+          "openalex_id": "A5009627381",
+          "display_name": "Naomi Cogger",
+          "orcid": "https://orcid.org/0000-0002-7940-5486",
+          "author_position": "last"
+        }
+      ],
+      "cohort_matches": [
+        {
+          "id": "https://openalex.org/A5028996985",
+          "openalex_id": "A5028996985",
+          "display_name": "Christopher B. Riley",
+          "orcid": "https://orcid.org/0000-0001-8679-7986",
+          "author_position": "middle",
+          "email": "criley03@uoguelph.ca"
+        }
+      ],
+      "abstract_inverted_index": {
+        "To": [
+          0
+        ],
+        "examine": [
+          1
+        ],
+        "the": [
+          2,
+          105,
+          149,
+          201,
+          227,
+          299,
+          339
+        ],
+        "self-reported": [
+          3,
+          23,
+          230
+        ],
+        "psychological": [
+          4,
+          330
+        ],
+        "impacts": [
+          5
+        ],
+        "for": [
+          6,
+          130,
+          245,
+          311,
+          318,
+          349
+        ],
+        "professional": [
+          7,
+          29
+        ],
+        "and": [
+          8,
+          16,
+          22,
+          30,
+          41,
+          49,
+          57,
+          69,
+          80,
+          120,
+          254,
+          275,
+          314,
+          361,
+          376
+        ],
+        "volunteer": [
+          9,
+          31
+        ],
+        "responders": [
+          10,
+          32,
+          161
+        ],
+        "associated": [
+          11,
+          103,
+          272,
+          332
+        ],
+        "with": [
+          12,
+          104,
+          266,
+          273,
+          290,
+          298,
+          333,
+          353
+        ],
+        "attending": [
+          13
+        ],
+        "animal-related": [
+          14,
+          34
+        ],
+        "emergencies": [
+          15,
+          35,
+          323
+        ],
+        "disasters,": [
+          17
+        ],
+        "focusing": [
+          18
+        ],
+        "on": [
+          19,
+          55,
+          374
+        ],
+        "their": [
+          20,
+          153,
+          366
+        ],
+        "experience": [
+          21,
+          134
+        ],
+        "management.": [
+          24
+        ],
+        "An": [
+          25
+        ],
+        "online": [
+          26
+        ],
+        "survey": [
+          27
+        ],
+        "of": [
+          28,
+          53,
+          87,
+          96,
+          109,
+          182,
+          200,
+          229,
+          239,
+          261,
+          329,
+          341
+        ],
+        "to": [
+          33,
+          93,
+          166,
+          197,
+          322,
+          338
+        ],
+        "was": [
+          36,
+          65,
+          91,
+          303,
+          309
+        ],
+        "shared": [
+          37
+        ],
+        "via": [
+          38
+        ],
+        "social": [
+          39
+        ],
+        "media": [
+          40
+        ],
+        "international": [
+          42
+        ],
+        "response": [
+          43
+        ],
+        "organisations.": [
+          44
+        ],
+        "Questions": [
+          45
+        ],
+        "addressed": [
+          46
+        ],
+        "demographic,": [
+          47
+        ],
+        "training": [
+          48
+        ],
+        "event-related": [
+          50
+        ],
+        "factors,": [
+          51
+        ],
+        "perceptions": [
+          52
+        ],
+        "effects": [
+          54
+        ],
+        "well-being": [
+          56,
+          112,
+          169,
+          283
+        ],
+        "post-event": [
+          58
+        ],
+        "management": [
+          59
+        ],
+        "recovery": [
+          60,
+          350,
+          377
+        ],
+        "techniques.": [
+          61
+        ],
+        "A": [
+          62,
+          156
+        ],
+        "particular": [
+          63
+        ],
+        "event": [
+          64
+        ],
+        "recalled": [
+          66
+        ],
+        "in": [
+          67
+        ],
+        "free-text,": [
+          68
+        ],
+        "respondents": [
+          70,
+          144,
+          240
+        ],
+        "indicated": [
+          71
+        ],
+        "how": [
+          72
+        ],
+        "they": [
+          73
+        ],
+        "had": [
+          74,
+          241,
+          257
+        ],
+        "been": [
+          75,
+          271
+        ],
+        "affected": [
+          76,
+          152
+        ],
+        "using": [
+          77,
+          118
+        ],
+        "free-text": [
+          78
+        ],
+        "reflection": [
+          79
+        ],
+        "Likert": [
+          81
+        ],
+        "scale": [
+          82
+        ],
+        "assessment.": [
+          83
+        ],
+        "The": [
+          84,
+          180
+        ],
+        "revised": [
+          85
+        ],
+        "Impact": [
+          86
+        ],
+        "Event": [
+          88
+        ],
+        "Scale": [
+          89
+        ],
+        "(IES-R)": [
+          90
+        ],
+        "used": [
+          92
+        ],
+        "identify": [
+          94
+        ],
+        "evidence": [
+          95
+        ],
+        "possible": [
+          97,
+          262
+        ],
+        "post-traumatic": [
+          98
+        ],
+        "stress": [
+          99
+        ],
+        "disorder": [
+          100
+        ],
+        "(PTSD).": [
+          101
+        ],
+        "Factors": [
+          102
+        ],
+        "self-assessed": [
+          106
+        ],
+        "binary": [
+          107
+        ],
+        "outcome": [
+          108
+        ],
+        "compromised": [
+          110,
+          168
+        ],
+        "mental": [
+          111,
+          154,
+          232,
+          342
+        ],
+        "(yes": [
+          113
+        ],
+        "or": [
+          114,
+          213,
+          293,
+          301,
+          316,
+          357,
+          363
+        ],
+        "no)": [
+          115
+        ],
+        "were": [
+          116
+        ],
+        "evaluated": [
+          117
+        ],
+        "single-predictor": [
+          119
+        ],
+        "multivariable": [
+          121,
+          157
+        ],
+        "logistic": [
+          122
+        ],
+        "regression.": [
+          123
+        ],
+        "Of": [
+          124,
+          279
+        ],
+        "227": [
+          125
+        ],
+        "responses": [
+          126
+        ],
+        "deemed": [
+          127
+        ],
+        "sufficiently": [
+          128
+        ],
+        "complete": [
+          129
+        ],
+        "analysis,": [
+          131
+        ],
+        "participants'": [
+          132
+        ],
+        "rescue": [
+          133
+        ],
+        "ranged": [
+          135
+        ],
+        "from": [
+          136
+        ],
+        "1-60": [
+          137
+        ],
+        "years;": [
+          138
+        ],
+        "67%": [
+          139
+        ],
+        "identified": [
+          140
+        ],
+        "as": [
+          141,
+          295,
+          347
+        ],
+        "female.": [
+          142
+        ],
+        "Most": [
+          143
+        ],
+        "(57%;": [
+          145
+        ],
+        "129/227)": [
+          146
+        ],
+        "reported": [
+          147
+        ],
+        "that": [
+          148,
+          269,
+          372
+        ],
+        "incident": [
+          150
+        ],
+        "described": [
+          151
+        ],
+        "well-being.": [
+          155,
+          343
+        ],
+        "model": [
+          158
+        ],
+        "found": [
+          159
+        ],
+        "female": [
+          160
+        ],
+        "more": [
+          162
+        ],
+        "likely": [
+          163
+        ],
+        "than": [
+          164
+        ],
+        "males": [
+          165
+        ],
+        "report": [
+          167
+        ],
+        "(OR": [
+          170,
+          186,
+          203,
+          217
+        ],
+        "=": [
+          171,
+          175,
+          178,
+          187,
+          191,
+          194,
+          204,
+          208,
+          211,
+          218,
+          224
+        ],
+        "2.37,": [
+          172
+        ],
+        "95%": [
+          173,
+          189,
+          206,
+          220,
+          286
+        ],
+        "CI": [
+          174,
+          190,
+          207,
+          221
+        ],
+        "1.25-4.57;": [
+          176
+        ],
+        "p": [
+          177,
+          193,
+          210,
+          223
+        ],
+        "0.009).": [
+          179
+        ],
+        "presence": [
+          181
+        ],
+        "an": [
+          183,
+          242
+        ],
+        "animal": [
+          184
+        ],
+        "injury": [
+          185
+        ],
+        "2.84,": [
+          188
+        ],
+        "1.44-5.75;": [
+          192
+        ],
+        "0.003),": [
+          195
+        ],
+        "injuries": [
+          196
+        ],
+        "a": [
+          198,
+          214,
+          251,
+          258,
+          267
+        ],
+        "member": [
+          199,
+          216
+        ],
+        "public": [
+          202
+        ],
+        "3.73,": [
+          205
+        ],
+        "1.68-8.99;": [
+          209
+        ],
+        "0.002),": [
+          212
+        ],
+        "team": [
+          215,
+          300
+        ],
+        "8.65": [
+          219
+        ],
+        "2.25-57.67;": [
+          222
+        ],
+        "0.006),": [
+          225
+        ],
+        "increased": [
+          226
+        ],
+        "odds": [
+          228
+        ],
+        "adverse": [
+          231
+        ],
+        "health": [
+          233,
+          277
+        ],
+        "outcomes.": [
+          234
+        ],
+        "Six": [
+          235
+        ],
+        "per": [
+          236
+        ],
+        "cent": [
+          237
+        ],
+        "(13/227)": [
+          238
+        ],
+        "IES-R": [
+          243
+        ],
+        "score": [
+          244,
+          259,
+          268
+        ],
+        "which": [
+          246
+        ],
+        "partial": [
+          247
+        ],
+        "PTSD": [
+          248,
+          274
+        ],
+        "may": [
+          249
+        ],
+        "be": [
+          250
+        ],
+        "clinical": [
+          252
+        ],
+        "concern,": [
+          253
+        ],
+        "3%": [
+          255
+        ],
+        "(7/227)": [
+          256
+        ],
+        "indicative": [
+          260
+        ],
+        "PTSD,": [
+          263
+        ],
+        "including": [
+          264
+        ],
+        "four": [
+          265
+        ],
+        "has": [
+          270
+        ],
+        "long-term": [
+          276
+        ],
+        "consequences.": [
+          278
+        ],
+        "those": [
+          280
+        ],
+        "who": [
+          281
+        ],
+        "tried": [
+          282
+        ],
+        "support": [
+          284
+        ],
+        "techniques,": [
+          285
+        ],
+        "(187/197)": [
+          287
+        ],
+        "ranked": [
+          288
+        ],
+        "talking": [
+          289,
+          352
+        ],
+        "friends,": [
+          291
+        ],
+        "family": [
+          292
+        ],
+        "teammates": [
+          294
+        ],
+        "effective.": [
+          296
+        ],
+        "Debriefing": [
+          297
+        ],
+        "mentor": [
+          302
+        ],
+        "also": [
+          304
+        ],
+        "effective": [
+          305,
+          310
+        ],
+        "(95%;": [
+          306
+        ],
+        "187/197).": [
+          307
+        ],
+        "Socialising": [
+          308
+        ],
+        "88%": [
+          312
+        ],
+        "(119/135),": [
+          313
+        ],
+        "mindfulness": [
+          315,
+          362
+        ],
+        "meditation": [
+          317
+        ],
+        "87%": [
+          319
+        ],
+        "(91/105).": [
+          320
+        ],
+        "Responders": [
+          321
+        ],
+        "involving": [
+          324
+        ],
+        "animals": [
+          325
+        ],
+        "are": [
+          326
+        ],
+        "at": [
+          327
+        ],
+        "risk": [
+          328
+        ],
+        "trauma": [
+          331
+        ],
+        "these": [
+          334
+        ],
+        "events,": [
+          335
+        ],
+        "potentially": [
+          336
+        ],
+        "leading": [
+          337
+        ],
+        "compromise": [
+          340
+        ],
+        "Psychosocial": [
+          344
+        ],
+        "supports": [
+          345
+        ],
+        "self-identified": [
+          346
+        ],
+        "helpful": [
+          348
+        ],
+        "include": [
+          351
+        ],
+        "others,": [
+          354
+        ],
+        "socialising,": [
+          355
+        ],
+        "physical": [
+          356
+        ],
+        "recreational": [
+          358
+        ],
+        "activity,": [
+          359
+        ],
+        "debriefing,": [
+          360
+        ],
+        "meditation,": [
+          364
+        ],
+        "but": [
+          365
+        ],
+        "effectiveness": [
+          367
+        ],
+        "requires": [
+          368
+        ],
+        "objective": [
+          369
+        ],
+        "evaluation": [
+          370
+        ],
+        "so": [
+          371
+        ],
+        "education": [
+          373
+        ],
+        "mitigation": [
+          375
+        ],
+        "strategies": [
+          378
+        ],
+        "is": [
+          379
+        ],
+        "well-informed.": [
+          380
+        ]
+      },
+      "abstract_text": "To examine the self-reported psychological impacts for professional and volunteer responders associated with attending animal-related emergencies and disasters, focusing on their experience and self-reported management. An online survey of professional and volunteer responders to animal-related emergencies was shared via social media and international response organisations. Questions addressed demographic, training and event-related factors, perceptions of effects on well-being and post-event management recovery techniques. A particular event was recalled in free-text, and respondents indicated how they had been affected using free-text reflection and Likert scale assessment. The revised Impact of Event Scale (IES-R) was used to identify evidence of possible post-traumatic stress disorder (PTSD). Factors associated with the self-assessed binary outcome of compromised mental well-being (yes or no) were evaluated using single-predictor and multivariable logistic regression. Of 227 responses deemed sufficiently complete for analysis, participants' rescue experience ranged from 1-60 years; 67% identified as female. Most respondents (57%; 129/227) reported that the incident described affected their mental well-being. A multivariable model found female responders more likely than males to report compromised well-being (OR = 2.37, 95% CI = 1.25-4.57; p = 0.009). The presence of an animal injury (OR = 2.84, 95% CI = 1.44-5.75; p = 0.003), injuries to a member of the public (OR = 3.73, 95% CI = 1.68-8.99; p = 0.002), or a team member (OR = 8.65 95% CI 2.25-57.67; p = 0.006), increased the odds of self-reported adverse mental health outcomes. Six per cent (13/227) of respondents had an IES-R score for which partial PTSD may be a clinical concern, and 3% (7/227) had a score indicative of possible PTSD, including four with a score that has been associated with PTSD and long-term health consequences. Of those who tried well-being support techniques, 95% (187/197) ranked talking with friends, family or teammates as effective. Debriefing with the team or mentor was also effective (95%; 187/197). Socialising was effective for 88% (119/135), and mindfulness or meditation for 87% (91/105). Responders to emergencies involving animals are at risk of psychological trauma associated with these events, potentially leading to the compromise of mental well-being. Psychosocial supports self-identified as helpful for recovery include talking with others, socialising, physical or recreational activity, debriefing, and mindfulness or meditation, but their effectiveness requires objective evaluation so that education on mitigation and recovery strategies is well-informed.",
+      "abstract_snippet_250w": "To examine the self-reported psychological impacts for professional and volunteer responders associated with attending animal-related emergencies and disasters, focusing on their experience and self-reported management. An online survey of professional and volunteer responders to animal-related emergencies was shared via social media and international response organisations. Questions addressed demographic, training and event-related factors, perceptions of effects on well-being and post-event management recovery techniques. A particular event was recalled in free-text, and respondents indicated how they had been affected using free-text reflection and Likert scale assessment. The revised Impact of Event Scale (IES-R) was used to identify evidence of possible post-traumatic stress disorder (PTSD). Factors associated with the self-assessed binary outcome of compromised mental well-being (yes or no) were evaluated using single-predictor and multivariable logistic regression. Of 227 responses deemed sufficiently complete for analysis, participants' rescue experience ranged from 1-60 years; 67% identified as female. Most respondents (57%; 129/227) reported that the incident described affected their mental well-being. A multivariable model found female responders more likely than males to report compromised well-being (OR = 2.37, 95% CI = 1.25-4.57; p = 0.009). The presence of an animal injury (OR = 2.84, 95% CI = 1.44-5.75; p = 0.003), injuries to a member of the public (OR = 3.73, 95% CI = 1.68-8.99; p = 0.002), or a team member (OR = 8.65 95% CI 2.25-57.67; p = 0.006), increased the odds of self-reported adverse mental health outcomes. Six per cent (13/227) of respondents had an IES-R score for which partial PTSD may…",
+      "is_oa": true
+    },
+    {
+      "openalex_id": "https://openalex.org/W4414709529",
+      "title": "Data from Specific Genetic Mutations Impact Chemotherapy Resistance and Therapeutic Efficacy of Oncolytic Viruses in Ovarian Cancer",
+      "publication_date": "2025-10-01",
+      "publication_year": 2025,
+      "journal": "",
+      "type": "preprint",
+      "doi": "https://doi.org/10.1158/1535-7163.c.8065106",
+      "doi_url": "https://doi.org/10.1158/1535-7163.c.8065106",
+      "authorships": [
+        {
+          "id": "https://openalex.org/A5050956085",
+          "openalex_id": "A5050956085",
+          "display_name": "Alison O. Cudmore",
+          "orcid": null,
+          "author_position": "first"
+        },
+        {
+          "id": "https://openalex.org/A5078780893",
+          "openalex_id": "A5078780893",
+          "display_name": "Galaxia M. Rodriguez",
+          "orcid": "https://orcid.org/0000-0002-5366-6047",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5032398526",
+          "openalex_id": "A5032398526",
+          "display_name": "Vincent Maranda",
+          "orcid": "https://orcid.org/0000-0003-1674-5421",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5093361426",
+          "openalex_id": "A5093361426",
+          "display_name": "Salar Farokhi Boroujeni",
+          "orcid": null,
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5084464229",
+          "openalex_id": "A5084464229",
+          "display_name": "Humaira Murshed",
+          "orcid": null,
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5101615019",
+          "openalex_id": "A5101615019",
+          "display_name": "Elizabeth A. Macdonald",
+          "orcid": "https://orcid.org/0000-0002-3154-9632",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5035210192",
+          "openalex_id": "A5035210192",
+          "display_name": "Mélanie Grondin",
+          "orcid": "https://orcid.org/0009-0004-1655-7740",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5052729328",
+          "openalex_id": "A5052729328",
+          "display_name": "Kenneth Garson",
+          "orcid": "https://orcid.org/0000-0002-6360-6515",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5029977294",
+          "openalex_id": "A5029977294",
+          "display_name": "Kathy Matuszewska",
+          "orcid": "https://orcid.org/0000-0002-7269-8538",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5012677572",
+          "openalex_id": "A5012677572",
+          "display_name": "Jean‐Simon Diallo",
+          "orcid": "https://orcid.org/0000-0002-4862-2795",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5071283689",
+          "openalex_id": "A5071283689",
+          "display_name": "Jim Petrik",
+          "orcid": "https://orcid.org/0000-0001-7102-637X",
+          "author_position": "middle",
+          "email": "jpetrik@uoguelph.ca"
+        },
+        {
+          "id": "https://openalex.org/A5039075996",
+          "openalex_id": "A5039075996",
+          "display_name": "Barbara C. Vanderhyden",
+          "orcid": "https://orcid.org/0000-0002-7644-7189",
+          "author_position": "last"
+        }
+      ],
+      "cohort_matches": [
+        {
+          "id": "https://openalex.org/A5071283689",
+          "openalex_id": "A5071283689",
+          "display_name": "Jim Petrik",
+          "orcid": "https://orcid.org/0000-0001-7102-637X",
+          "author_position": "middle",
+          "email": "jpetrik@uoguelph.ca"
+        }
+      ],
+      "abstract_inverted_index": {
+        "&lt;div&gt;Abstract&lt;p&gt;Epithelial": [
+          0
+        ],
+        "ovarian": [
+          1
+        ],
+        "cancer": [
+          2
+        ],
+        "(EOC)": [
+          3
+        ],
+        "is": [
+          4,
+          23,
+          36,
+          42
+        ],
+        "the": [
+          5,
+          32,
+          39,
+          57,
+          61,
+          73,
+          82,
+          89,
+          92,
+          110,
+          163,
+          177,
+          207,
+          213,
+          234
+        ],
+        "most": [
+          6
+        ],
+        "lethal": [
+          7
+        ],
+        "gynecologic": [
+          8
+        ],
+        "cancer,": [
+          9
+        ],
+        "and": [
+          10,
+          28,
+          38,
+          101,
+          109,
+          127,
+          144,
+          147,
+          151,
+          158,
+          187,
+          192,
+          202
+        ],
+        "those": [
+          11
+        ],
+        "affected": [
+          12
+        ],
+        "are": [
+          13,
+          48
+        ],
+        "in": [
+          14,
+          66,
+          142,
+          162,
+          196,
+          212,
+          223
+        ],
+        "urgent": [
+          15
+        ],
+        "need": [
+          16
+        ],
+        "of": [
+          17,
+          34,
+          60,
+          75,
+          84,
+          135,
+          156,
+          179,
+          227,
+          246
+        ],
+        "new": [
+          18,
+          238
+        ],
+        "therapeutic": [
+          19
+        ],
+        "strategies.": [
+          20
+        ],
+        "Standard": [
+          21
+        ],
+        "treatment": [
+          22,
+          132
+        ],
+        "surgery": [
+          24
+        ],
+        "followed": [
+          25
+        ],
+        "by": [
+          26
+        ],
+        "taxane-": [
+          27
+        ],
+        "platinum-based": [
+          29
+        ],
+        "chemotherapy.": [
+          30
+        ],
+        "However,": [
+          31
+        ],
+        "rate": [
+          33
+        ],
+        "relapse": [
+          35
+        ],
+        "high,": [
+          37
+        ],
+        "5-year": [
+          40
+        ],
+        "survival": [
+          41,
+          134
+        ],
+        "only": [
+          43
+        ],
+        "45%.": [
+          44
+        ],
+        "Oncolytic": [
+          45
+        ],
+        "viruses": [
+          46
+        ],
+        "(OV)": [
+          47
+        ],
+        "a": [
+          49,
+          243
+        ],
+        "promising": [
+          50,
+          97
+        ],
+        "approach": [
+          51
+        ],
+        "to": [
+          52,
+          91,
+          125,
+          189,
+          241
+        ],
+        "EOC": [
+          53,
+          67,
+          247
+        ],
+        "therapy": [
+          54
+        ],
+        "through": [
+          55
+        ],
+        "remodeling": [
+          56
+        ],
+        "immune": [
+          58
+        ],
+        "composition": [
+          59
+        ],
+        "tumor": [
+          62,
+          86,
+          165
+        ],
+        "microenvironment.": [
+          63,
+          166
+        ],
+        "Treatment": [
+          64
+        ],
+        "response": [
+          65,
+          90,
+          124
+        ],
+        "tumors": [
+          68,
+          116,
+          139
+        ],
+        "can": [
+          69
+        ],
+        "differ": [
+          70
+        ],
+        "based": [
+          71
+        ],
+        "on": [
+          72,
+          88
+        ],
+        "presence": [
+          74
+        ],
+        "key": [
+          76
+        ],
+        "tumorigenic": [
+          77
+        ],
+        "mutations.": [
+          78
+        ],
+        "This": [
+          79
+        ],
+        "study": [
+          80
+        ],
+        "evaluated": [
+          81
+        ],
+        "impact": [
+          83
+        ],
+        "specific": [
+          85
+        ],
+        "mutations": [
+          87,
+          141
+        ],
+        "current": [
+          93
+        ],
+        "standard-of-care": [
+          94
+        ],
+        "carboplatin,": [
+          95
+        ],
+        "two": [
+          96,
+          197
+        ],
+        "OV": [
+          98,
+          169
+        ],
+        "candidates": [
+          99
+        ],
+        "VSVΔM51": [
+          100,
+          128,
+          131,
+          204
+        ],
+        "MG1,": [
+          102
+        ],
+        "an": [
+          103,
+          122,
+          171
+        ],
+        "infected": [
+          104,
+          173
+        ],
+        "cell": [
+          105,
+          174
+        ],
+        "vaccine": [
+          106,
+          175
+        ],
+        "(ICV-MG1)": [
+          107
+        ],
+        "regimen,": [
+          108
+        ],
+        "antiangiogenic": [
+          111,
+          208
+        ],
+        "drug": [
+          112
+        ],
+        "Fc3TSR.": [
+          113
+        ],
+        "Mice": [
+          114
+        ],
+        "with": [
+          115,
+          140,
+          153,
+          206
+        ],
+        "harboring": [
+          117
+        ],
+        "constitutive": [
+          118
+        ],
+        "K-Ras": [
+          119
+        ],
+        "activation": [
+          120,
+          155
+        ],
+        "showed": [
+          121
+        ],
+        "enhanced": [
+          123,
+          210
+        ],
+        "carboplatin": [
+          126
+        ],
+        "treatment.": [
+          129
+        ],
+        "Additionally,": [
+          130
+        ],
+        "prolonged": [
+          133
+        ],
+        "syngeneic": [
+          136,
+          199
+        ],
+        "mice": [
+          137
+        ],
+        "bearing": [
+          138
+        ],
+        "&lt;i&gt;Pten&lt;/i&gt;": [
+          143,
+          146
+        ],
+        "&lt;i&gt;Kras&lt;/i&gt;,": [
+          145
+        ],
+        "&lt;i&gt;Trp53&lt;/i&gt;,": [
+          148
+        ],
+        "or": [
+          149,
+          181
+        ],
+        "&lt;i&gt;Trp53&lt;/i&gt;": [
+          150
+        ],
+        "&lt;i&gt;Brca2&lt;/i&gt;": [
+          152
+        ],
+        "increased": [
+          154
+        ],
+        "CD4&lt;sup&gt;+&lt;/sup&gt;": [
+          157
+        ],
+        "CD8&lt;sup&gt;+&lt;/sup&gt;": [
+          159
+        ],
+        "T": [
+          160
+        ],
+        "lymphocytes": [
+          161
+        ],
+        "peritoneal": [
+          164
+        ],
+        "To": [
+          167
+        ],
+        "enhance": [
+          168
+        ],
+        "potency,": [
+          170
+        ],
+        "MG1-based": [
+          172
+        ],
+        "inducing": [
+          176
+        ],
+        "expression": [
+          178
+        ],
+        "IL21": [
+          180,
+          184
+        ],
+        "IL15": [
+          182
+        ],
+        "+": [
+          183
+        ],
+        "was": [
+          185
+        ],
+        "developed": [
+          186
+        ],
+        "found": [
+          188
+        ],
+        "enable": [
+          190
+        ],
+        "strong": [
+          191
+        ],
+        "long-lasting": [
+          193
+        ],
+        "antitumoral": [
+          194
+        ],
+        "immunity": [
+          195
+        ],
+        "carboplatin-refractory": [
+          198
+        ],
+        "models,": [
+          200
+        ],
+        "ID8-&lt;i&gt;Trp53&lt;/i&gt;&lt;sup&gt;−/−&lt;/sup&gt;": [
+          201
+        ],
+        "STOSE.": [
+          203
+        ],
+        "combined": [
+          205
+        ],
+        "Fc3TSR": [
+          209
+        ],
+        "efficacy": [
+          211
+        ],
+        "ID8": [
+          214
+        ],
+        "model.": [
+          215
+        ],
+        "In": [
+          216
+        ],
+        "summary,": [
+          217
+        ],
+        "OV-based": [
+          218,
+          239
+        ],
+        "immunotherapy": [
+          219
+        ],
+        "has": [
+          220
+        ],
+        "shown": [
+          221
+        ],
+        "promise": [
+          222
+        ],
+        "diverse": [
+          224
+        ],
+        "murine": [
+          225
+        ],
+        "models": [
+          226
+        ],
+        "EOC-bearing": [
+          228
+        ],
+        "clinically": [
+          229
+        ],
+        "relevant": [
+          230
+        ],
+        "mutations,": [
+          231
+        ],
+        "thus": [
+          232
+        ],
+        "laying": [
+          233
+        ],
+        "foundation": [
+          235
+        ],
+        "for": [
+          236
+        ],
+        "developing": [
+          237
+        ],
+        "strategies": [
+          240
+        ],
+        "target": [
+          242
+        ],
+        "large": [
+          244
+        ],
+        "spectrum": [
+          245
+        ],
+        "genotypes.&lt;/p&gt;&lt;/div&gt;": [
+          248
+        ]
+      },
+      "abstract_text": "&lt;div&gt;Abstract&lt;p&gt;Epithelial ovarian cancer (EOC) is the most lethal gynecologic cancer, and those affected are in urgent need of new therapeutic strategies. Standard treatment is surgery followed by taxane- and platinum-based chemotherapy. However, the rate of relapse is high, and the 5-year survival is only 45%. Oncolytic viruses (OV) are a promising approach to EOC therapy through remodeling the immune composition of the tumor microenvironment. Treatment response in EOC tumors can differ based on the presence of key tumorigenic mutations. This study evaluated the impact of specific tumor mutations on the response to the current standard-of-care carboplatin, two promising OV candidates VSVΔM51 and MG1, an infected cell vaccine (ICV-MG1) regimen, and the antiangiogenic drug Fc3TSR. Mice with tumors harboring constitutive K-Ras activation showed an enhanced response to carboplatin and VSVΔM51 treatment. Additionally, VSVΔM51 treatment prolonged survival of syngeneic mice bearing tumors with mutations in &lt;i&gt;Pten&lt;/i&gt; and &lt;i&gt;Kras&lt;/i&gt;, &lt;i&gt;Pten&lt;/i&gt; and &lt;i&gt;Trp53&lt;/i&gt;, or &lt;i&gt;Trp53&lt;/i&gt; and &lt;i&gt;Brca2&lt;/i&gt; with increased activation of CD4&lt;sup&gt;+&lt;/sup&gt; and CD8&lt;sup&gt;+&lt;/sup&gt; T lymphocytes in the peritoneal tumor microenvironment. To enhance OV potency, an MG1-based infected cell vaccine inducing the expression of IL21 or IL15 + IL21 was developed and found to enable strong and long-lasting antitumoral immunity in two carboplatin-refractory syngeneic models, ID8-&lt;i&gt;Trp53&lt;/i&gt;&lt;sup&gt;−/−&lt;/sup&gt; and STOSE. VSVΔM51 combined with the antiangiogenic Fc3TSR enhanced efficacy in the ID8 model. In summary, OV-based immunotherapy has shown promise in diverse murine models of EOC-bearing clinically relevant mutations, thus laying the foundation for developing new OV-based strategies to target a large spectrum of EOC genotypes.&lt;/p&gt;&lt;/div&gt;",
+      "abstract_snippet_250w": "&lt;div&gt;Abstract&lt;p&gt;Epithelial ovarian cancer (EOC) is the most lethal gynecologic cancer, and those affected are in urgent need of new therapeutic strategies. Standard treatment is surgery followed by taxane- and platinum-based chemotherapy. However, the rate of relapse is high, and the 5-year survival is only 45%. Oncolytic viruses (OV) are a promising approach to EOC therapy through remodeling the immune composition of the tumor microenvironment. Treatment response in EOC tumors can differ based on the presence of key tumorigenic mutations. This study evaluated the impact of specific tumor mutations on the response to the current standard-of-care carboplatin, two promising OV candidates VSVΔM51 and MG1, an infected cell vaccine (ICV-MG1) regimen, and the antiangiogenic drug Fc3TSR. Mice with tumors harboring constitutive K-Ras activation showed an enhanced response to carboplatin and VSVΔM51 treatment. Additionally, VSVΔM51 treatment prolonged survival of syngeneic mice bearing tumors with mutations in &lt;i&gt;Pten&lt;/i&gt; and &lt;i&gt;Kras&lt;/i&gt;, &lt;i&gt;Pten&lt;/i&gt; and &lt;i&gt;Trp53&lt;/i&gt;, or &lt;i&gt;Trp53&lt;/i&gt; and &lt;i&gt;Brca2&lt;/i&gt; with increased activation of CD4&lt;sup&gt;+&lt;/sup&gt; and CD8&lt;sup&gt;+&lt;/sup&gt; T lymphocytes in the peritoneal tumor microenvironment. To enhance OV potency, an MG1-based infected cell vaccine inducing the expression of IL21 or IL15 + IL21 was developed and found to enable strong and long-lasting antitumoral immunity in two carboplatin-refractory syngeneic models, ID8-&lt;i&gt;Trp53&lt;/i&gt;&lt;sup&gt;−/−&lt;/sup&gt; and STOSE. VSVΔM51 combined with the antiangiogenic Fc3TSR enhanced efficacy in the ID8 model. In summary, OV-based immunotherapy has shown promise in diverse murine models of EOC-bearing clinically relevant mutations, thus laying the foundation for developing new OV-based strategies to target a large spectrum of EOC genotypes.&lt;/p&gt;&lt;/div&gt;",
+      "is_oa": false
+    },
+    {
+      "openalex_id": "https://openalex.org/W4414692612",
+      "title": "A high proportion of bacterial isolates from septic neonatal foals in Ontario express multidrug resistance and low susceptibility to first-line antimicrobials",
+      "publication_date": "2025-10-01",
+      "publication_year": 2025,
+      "journal": "Journal of the American Veterinary Medical Association",
+      "type": "article",
+      "doi": "https://doi.org/10.2460/javma.25.05.0339",
+      "doi_url": "https://doi.org/10.2460/javma.25.05.0339",
+      "authorships": [
+        {
+          "id": "https://openalex.org/A5119792179",
+          "openalex_id": "A5119792179",
+          "display_name": "Daniela Espinosa Seoane",
+          "orcid": null,
+          "author_position": "first"
+        },
+        {
+          "id": "https://openalex.org/A5028996985",
+          "openalex_id": "A5028996985",
+          "display_name": "Christopher B. Riley",
+          "orcid": "https://orcid.org/0000-0001-8679-7986",
+          "author_position": "middle",
+          "email": "criley03@uoguelph.ca"
+        },
+        {
+          "id": "https://openalex.org/A5076765595",
+          "openalex_id": "A5076765595",
+          "display_name": "Daniel G. Kenney",
+          "orcid": "https://orcid.org/0000-0003-0584-7422",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5043081307",
+          "openalex_id": "A5043081307",
+          "display_name": "Ashley Spencer",
+          "orcid": null,
+          "author_position": "middle",
+          "email": "aspenc10@uoguelph.ca"
+        },
+        {
+          "id": "https://openalex.org/A5077313554",
+          "openalex_id": "A5077313554",
+          "display_name": "Luis G. Arroyo",
+          "orcid": "https://orcid.org/0000-0002-6007-5413",
+          "author_position": "last",
+          "email": "larroyo@uoguelph.ca"
+        }
+      ],
+      "cohort_matches": [
+        {
+          "id": "https://openalex.org/A5028996985",
+          "openalex_id": "A5028996985",
+          "display_name": "Christopher B. Riley",
+          "orcid": "https://orcid.org/0000-0001-8679-7986",
+          "author_position": "middle",
+          "email": "criley03@uoguelph.ca"
+        },
+        {
+          "id": "https://openalex.org/A5043081307",
+          "openalex_id": "A5043081307",
+          "display_name": "Ashley Spencer",
+          "orcid": null,
+          "author_position": "middle",
+          "email": "aspenc10@uoguelph.ca"
+        },
+        {
+          "id": "https://openalex.org/A5077313554",
+          "openalex_id": "A5077313554",
+          "display_name": "Luis G. Arroyo",
+          "orcid": "https://orcid.org/0000-0002-6007-5413",
+          "author_position": "last",
+          "email": "larroyo@uoguelph.ca"
+        }
+      ],
+      "abstract_inverted_index": {
+        "Abstract": [
+          0
+        ],
+        "Objective": [
+          1
+        ],
+        "To": [
+          2
+        ],
+        "describe": [
+          3
+        ],
+        "common": [
+          4,
+          239,
+          246
+        ],
+        "bacterial": [
+          5,
+          44,
+          90
+        ],
+        "isolates": [
+          6,
+          87,
+          154,
+          210,
+          222,
+          264
+        ],
+        "cultured": [
+          7
+        ],
+        "from": [
+          8,
+          35,
+          71
+        ],
+        "sick": [
+          9
+        ],
+        "neonatal": [
+          10,
+          79
+        ],
+        "foals": [
+          11,
+          23,
+          80
+        ],
+        "and": [
+          12,
+          16,
+          39,
+          46,
+          60,
+          62,
+          92,
+          122,
+          147,
+          169,
+          186,
+          223,
+          241,
+          253,
+          268,
+          279
+        ],
+        "their": [
+          13
+        ],
+        "antimicrobial": [
+          14,
+          61,
+          284
+        ],
+        "susceptibility": [
+          15,
+          47,
+          133,
+          200,
+          270,
+          277
+        ],
+        "resistance": [
+          17,
+          64,
+          206,
+          267
+        ],
+        "patterns.": [
+          18
+        ],
+        "Methods": [
+          19
+        ],
+        "Medical": [
+          20
+        ],
+        "records": [
+          21
+        ],
+        "of": [
+          22,
+          27,
+          57,
+          77,
+          88,
+          98,
+          106,
+          112,
+          120,
+          127,
+          140,
+          145,
+          151,
+          162,
+          167,
+          173,
+          184,
+          190,
+          203,
+          214,
+          218,
+          226,
+          251,
+          263,
+          281
+        ],
+        "≤": [
+          24
+        ],
+        "30": [
+          25
+        ],
+        "days": [
+          26
+        ],
+        "age,": [
+          28,
+          82
+        ],
+        "admitted": [
+          29
+        ],
+        "to": [
+          30,
+          37,
+          136,
+          158,
+          180,
+          271
+        ],
+        "the": [
+          31,
+          198,
+          208,
+          237,
+          244
+        ],
+        "Ontario": [
+          32
+        ],
+        "Veterinary": [
+          33
+        ],
+        "College": [
+          34
+        ],
+        "2020": [
+          36
+        ],
+        "2023,": [
+          38
+        ],
+        "with": [
+          40
+        ],
+        "a": [
+          41,
+          249,
+          260
+        ],
+        "positive": [
+          42
+        ],
+        "aerobic": [
+          43
+        ],
+        "culture": [
+          45
+        ],
+        "testing": [
+          48
+        ],
+        "performed": [
+          49
+        ],
+        "(Kirby-Bauer": [
+          50
+        ],
+        "method)": [
+          51
+        ],
+        "were": [
+          52,
+          129,
+          155,
+          177,
+          256
+        ],
+        "included.": [
+          53
+        ],
+        "A": [
+          54
+        ],
+        "descriptive": [
+          55
+        ],
+        "analysis": [
+          56
+        ],
+        "species": [
+          58,
+          91,
+          240,
+          255
+        ],
+        "isolated": [
+          59
+        ],
+        "multidrug": [
+          63,
+          266
+        ],
+        "profiles": [
+          65
+        ],
+        "was": [
+          66,
+          134,
+          211,
+          236,
+          243,
+          259
+        ],
+        "performed.": [
+          67
+        ],
+        "Results": [
+          68
+        ],
+        "62": [
+          69
+        ],
+        "samples": [
+          70
+        ],
+        "60": [
+          72
+        ],
+        "predominantly": [
+          73
+        ],
+        "Thoroughbred": [
+          74
+        ],
+        "(42%": [
+          75
+        ],
+        "[25": [
+          76
+        ],
+        "60])": [
+          78
+        ],
+        "(median": [
+          81
+        ],
+        "8": [
+          83
+        ],
+        "days)": [
+          84
+        ],
+        "yielded": [
+          85
+        ],
+        "104": [
+          86,
+          209
+        ],
+        "34": [
+          89
+        ],
+        "genera.": [
+          93
+        ],
+        "Enterococcus": [
+          94,
+          242
+        ],
+        "spp": [
+          95
+        ],
+        "(22%": [
+          96
+        ],
+        "[23": [
+          97
+        ],
+        "104]),": [
+          99,
+          107,
+          113,
+          121,
+          146
+        ],
+        "Streptococcus": [
+          100
+        ],
+        "equi": [
+          101,
+          233
+        ],
+        "subsp": [
+          102,
+          116,
+          234
+        ],
+        "zooepidemicus": [
+          103,
+          235
+        ],
+        "(17%": [
+          104
+        ],
+        "[18": [
+          105
+        ],
+        "Escherichia": [
+          108
+        ],
+        "coli": [
+          109
+        ],
+        "(12%": [
+          110
+        ],
+        "[12": [
+          111
+        ],
+        "Actinobacillus": [
+          114
+        ],
+        "equuli": [
+          115
+        ],
+        "haemolyticus": [
+          117
+        ],
+        "(8%": [
+          118,
+          125
+        ],
+        "[8": [
+          119,
+          126
+        ],
+        "Staphylococcus": [
+          123
+        ],
+        "aureus": [
+          124
+        ],
+        "104])": [
+          128
+        ],
+        "most": [
+          130,
+          156,
+          178,
+          238,
+          245
+        ],
+        "frequent.": [
+          131
+        ],
+        "Antimicrobial": [
+          132
+        ],
+        "highest": [
+          135,
+          199
+        ],
+        "chloramphenicol": [
+          137,
+          159
+        ],
+        "(74%": [
+          138
+        ],
+        "[75": [
+          139
+        ],
+        "102]),": [
+          141
+        ],
+        "ceftiofur": [
+          142,
+          187
+        ],
+        "(68%": [
+          143
+        ],
+        "[71": [
+          144
+        ],
+        "enrofloxacin": [
+          148,
+          181
+        ],
+        "(64%": [
+          149
+        ],
+        "[66": [
+          150
+        ],
+        "103]).": [
+          152
+        ],
+        "Gram-positive": [
+          153
+        ],
+        "susceptible": [
+          157,
+          179
+        ],
+        "(87%": [
+          160
+        ],
+        "[53": [
+          161
+        ],
+        "61]),": [
+          163,
+          168
+        ],
+        "ampicillin": [
+          164,
+          195
+        ],
+        "(75%": [
+          165
+        ],
+        "[38": [
+          166
+        ],
+        "rifampin": [
+          170
+        ],
+        "(70%": [
+          171
+        ],
+        "[43": [
+          172
+        ],
+        "61]).": [
+          174
+        ],
+        "Gram-negative": [
+          175
+        ],
+        "bacteria": [
+          176
+        ],
+        "(81%": [
+          182
+        ],
+        "[34": [
+          183
+        ],
+        "42])": [
+          185
+        ],
+        "(71%": [
+          188
+        ],
+        "[30": [
+          189
+        ],
+        "42]).": [
+          191
+        ],
+        "An": [
+          192
+        ],
+        "amikacin": [
+          193
+        ],
+        "plus": [
+          194
+        ],
+        "combination": [
+          196
+        ],
+        "had": [
+          197
+        ],
+        "(78%": [
+          201
+        ],
+        "[70": [
+          202
+        ],
+        "90]).": [
+          204
+        ],
+        "Multidrug": [
+          205
+        ],
+        "for": [
+          207,
+          220,
+          228,
+          287
+        ],
+        "78%": [
+          212
+        ],
+        "(81": [
+          213
+        ],
+        "104):": [
+          215
+        ],
+        "66%": [
+          216
+        ],
+        "(41": [
+          217
+        ],
+        "62)": [
+          219
+        ],
+        "gram-positive": [
+          221
+        ],
+        "93%": [
+          224
+        ],
+        "(39": [
+          225
+        ],
+        "42)": [
+          227
+        ],
+        "gram-negative": [
+          229
+        ],
+        "isolates.": [
+          230
+        ],
+        "Conclusions": [
+          231
+        ],
+        "S": [
+          232
+        ],
+        "genus,": [
+          247
+        ],
+        "but": [
+          248
+        ],
+        "breadth": [
+          250
+        ],
+        "equine-associated": [
+          252
+        ],
+        "environmental": [
+          254
+        ],
+        "cultured.": [
+          257
+        ],
+        "There": [
+          258
+        ],
+        "high": [
+          261
+        ],
+        "proportion": [
+          262
+        ],
+        "expressing": [
+          265
+        ],
+        "low": [
+          269
+        ],
+        "first-line": [
+          272
+        ],
+        "antimicrobials.": [
+          273
+        ],
+        "Clinical": [
+          274
+        ],
+        "Relevance": [
+          275
+        ],
+        "Ongoing": [
+          276
+        ],
+        "monitoring": [
+          278
+        ],
+        "implementation": [
+          280
+        ],
+        "an": [
+          282
+        ],
+        "effective": [
+          283
+        ],
+        "stewardship": [
+          285
+        ],
+        "program": [
+          286
+        ],
+        "this": [
+          288
+        ],
+        "patient": [
+          289
+        ],
+        "population": [
+          290
+        ],
+        "is": [
+          291
+        ],
+        "required.": [
+          292
+        ]
+      },
+      "abstract_text": "Abstract Objective To describe common bacterial isolates cultured from sick neonatal foals and their antimicrobial susceptibility and resistance patterns. Methods Medical records of foals ≤ 30 days of age, admitted to the Ontario Veterinary College from 2020 to 2023, and with a positive aerobic bacterial culture and susceptibility testing performed (Kirby-Bauer method) were included. A descriptive analysis of species isolated and antimicrobial and multidrug resistance profiles was performed. Results 62 samples from 60 predominantly Thoroughbred (42% [25 of 60]) neonatal foals (median age, 8 days) yielded 104 isolates of 34 bacterial species and genera. Enterococcus spp (22% [23 of 104]), Streptococcus equi subsp zooepidemicus (17% [18 of 104]), Escherichia coli (12% [12 of 104]), Actinobacillus equuli subsp haemolyticus (8% [8 of 104]), and Staphylococcus aureus (8% [8 of 104]) were most frequent. Antimicrobial susceptibility was highest to chloramphenicol (74% [75 of 102]), ceftiofur (68% [71 of 104]), and enrofloxacin (64% [66 of 103]). Gram-positive isolates were most susceptible to chloramphenicol (87% [53 of 61]), ampicillin (75% [38 of 61]), and rifampin (70% [43 of 61]). Gram-negative bacteria were most susceptible to enrofloxacin (81% [34 of 42]) and ceftiofur (71% [30 of 42]). An amikacin plus ampicillin combination had the highest susceptibility (78% [70 of 90]). Multidrug resistance for the 104 isolates was 78% (81 of 104): 66% (41 of 62) for gram-positive isolates and 93% (39 of 42) for gram-negative isolates. Conclusions S equi subsp zooepidemicus was the most common species and Enterococcus was the most common genus, but a breadth of equine-associated and environmental species were cultured. There was a high proportion of isolates expressing multidrug resistance and low susceptibility to first-line antimicrobials. Clinical Relevance Ongoing susceptibility monitoring and implementation of an effective antimicrobial stewardship program for this patient population is required.",
+      "abstract_snippet_250w": "Abstract Objective To describe common bacterial isolates cultured from sick neonatal foals and their antimicrobial susceptibility and resistance patterns. Methods Medical records of foals ≤ 30 days of age, admitted to the Ontario Veterinary College from 2020 to 2023, and with a positive aerobic bacterial culture and susceptibility testing performed (Kirby-Bauer method) were included. A descriptive analysis of species isolated and antimicrobial and multidrug resistance profiles was performed. Results 62 samples from 60 predominantly Thoroughbred (42% [25 of 60]) neonatal foals (median age, 8 days) yielded 104 isolates of 34 bacterial species and genera. Enterococcus spp (22% [23 of 104]), Streptococcus equi subsp zooepidemicus (17% [18 of 104]), Escherichia coli (12% [12 of 104]), Actinobacillus equuli subsp haemolyticus (8% [8 of 104]), and Staphylococcus aureus (8% [8 of 104]) were most frequent. Antimicrobial susceptibility was highest to chloramphenicol (74% [75 of 102]), ceftiofur (68% [71 of 104]), and enrofloxacin (64% [66 of 103]). Gram-positive isolates were most susceptible to chloramphenicol (87% [53 of 61]), ampicillin (75% [38 of 61]), and rifampin (70% [43 of 61]). Gram-negative bacteria were most susceptible to enrofloxacin (81% [34 of 42]) and ceftiofur (71% [30 of 42]). An amikacin plus ampicillin combination had the highest susceptibility (78% [70 of 90]). Multidrug resistance for the 104 isolates was 78% (81 of 104): 66% (41 of 62) for gram-positive isolates and 93% (39 of 42) for gram-negative isolates. Conclusions S equi subsp zooepidemicus was the most common species and Enterococcus was the most common genus, but a…",
+      "is_oa": false
+    }
+  ]
+}
